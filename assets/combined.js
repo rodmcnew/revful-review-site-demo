@@ -1639,9 +1639,6 @@ module.config(['$routeProvider',
             when('/login', {
                 templateUrl: 'view/login.html'
             }).
-            when('/test', {
-                templateUrl: 'view/test.html'
-            }).
             otherwise({
                 redirectTo: '/'
             });
