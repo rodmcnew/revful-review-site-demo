@@ -1,0 +1,101 @@
+{
+  "itemId": 21648758,
+  "name": "Apple VGA Adapter",
+  "salePrice": 25,
+  "upc": "885909447442",
+  "categoryPath": "Electronics/iPods & MP3 Players/MP3 Accessories/Batteries & Chargers",
+  "brandName": "Apple",
+  "productTrackingUrl": "http://linksynergy.walmart.com/fs-bin/click?id=|LSNID|&offerid=223073.7200&type=14&catid=8&subid=0&hid=7200&tmpid=1082&RD_PARM1=http%253A%252F%252Fwww.walmart.com%252Fip%252FApple-VGA-Adapter%252F21648758%253Faffp1%253Dl1dAKNLrNlFLqxAnUYUMtwzELl3x1lA0ev6C4H5U2XY%2526affilsrc%253Dapi",
+  "productUrl": "http://c.affil.walmart.com/t/api06?l=http%3A%2F%2Fwww.walmart.com%2Fip%2FApple-VGA-Adapter%2F21648758%3Faffp1%3Dl1dAKNLrNlFLqxAnUYUMtwzELl3x1lA0ev6C4H5U2XY%26affilsrc%3Dapi%26veh%3Daff%26wmlspartner%3Dreadonlyapi",
+  "categoryNode": "3944_96469_133271",
+  "reviews": [
+    {
+      "name": "Apple VGA Adapter",
+      "overallRating": {
+        "label": "Overall",
+        "rating": "5"
+      },
+      "reviewer": "EMMY1720",
+      "reviewText": "I love this little gadget that I got for Christmas.. You can surf the web thru your tv.. You can do facebook check your email and even play games from you Iphone or Ipad to your tv on the big screen.. The sound doesnt work with some of the games but it still does an excellent job!! Definately impressed!! :))",
+      "submissionTime": "2012-12-29T05:47:25",
+      "title": "Excellent",
+      "upVotes": "3",
+      "downVotes": "0"
+    },
+    {
+      "name": "Apple VGA Adapter",
+      "overallRating": {
+        "label": "Overall",
+        "rating": "4"
+      },
+      "productAttributes": [
+        {
+          "label": "Value",
+          "rating": "4"
+        },
+        {
+          "label": "Meets Expectations",
+          "rating": "4"
+        }
+      ],
+      "reviewer": "Patsox48",
+      "reviewText": "It works well, plays the video. No sound, obviously, and you can't charge it. Both are disappointing.",
+      "submissionTime": "2013-01-28T20:31:46",
+      "title": "Works well, Doesn't charge iPod though",
+      "upVotes": "2",
+      "downVotes": "3"
+    },
+    {
+      "name": "Apple VGA Adapter",
+      "overallRating": {
+        "label": "Overall",
+        "rating": "5"
+      },
+      "reviewer": "Chelle",
+      "reviewText": "I purchased the VGA adapter over a week ago so I could view my IPad on my TV and I am very pleased with the product; delivery was prompt and the price was less than half of what Apple and a local Computer Store was asking. Needless to say, I'm pleased.",
+      "submissionTime": "2015-02-23T11:52:54",
+      "title": "Happy Customer",
+      "upVotes": "0",
+      "downVotes": "0"
+    },
+    {
+      "name": "Apple VGA Adapter",
+      "overallRating": {
+        "label": "Overall",
+        "rating": "5"
+      },
+      "productAttributes": [
+        {
+          "label": "Value",
+          "rating": "2"
+        },
+        {
+          "label": "Meets Expectations",
+          "rating": "5"
+        }
+      ],
+      "reviewer": "AppleSun",
+      "reviewText": "Shipping was very fast. It was not the first time I bought things from Walmart online. It was very convenient and the free ship to home feature was wonderful. This product met my expectation and the price was a few dollars cheaper than those from other stores. But I think this product was overcharged from everywhere anyway.",
+      "submissionTime": "2013-08-20T09:16:50",
+      "title": "Shipping was very fast.",
+      "upVotes": "0",
+      "downVotes": "0"
+    }
+  ],
+  "reviewStatistics": {
+    "averageOverallRating": "4.78",
+    "overallRatingRange": "5",
+    "ratingDistributions": [
+      {
+        "count": "2",
+        "ratingValue": "4"
+      },
+      {
+        "count": "7",
+        "ratingValue": "5"
+      }
+    ],
+    "totalReviewCount": "9"
+  },
+  "availableOnline": true
+}

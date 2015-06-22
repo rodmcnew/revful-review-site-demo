@@ -1,0 +1,124 @@
+{
+  "itemId": 12718676,
+  "name": "Shoplet Best FREEZE UP EI-8920",
+  "salePrice": 45.64,
+  "upc": "086002089205",
+  "categoryPath": "Toys/Action Figures/Action Figures",
+  "productTrackingUrl": "http://linksynergy.walmart.com/fs-bin/click?id=|LSNID|&offerid=223073.7200&type=14&catid=8&subid=0&hid=7200&tmpid=1082&RD_PARM1=http%253A%252F%252Fwww.walmart.com%252Fip%252FFreeze-Up%252F12718676%253Faffp1%253Dl1dAKNLrNlFLqxAnUYUMtwzELl3x1lA0ev6C4H5U2XY%2526affilsrc%253Dapi",
+  "productUrl": "http://c.affil.walmart.com/t/api06?l=http%3A%2F%2Fwww.walmart.com%2Fip%2FFreeze-Up%2F12718676%3Faffp1%3Dl1dAKNLrNlFLqxAnUYUMtwzELl3x1lA0ev6C4H5U2XY%26affilsrc%3Dapi%26veh%3Daff%26wmlspartner%3Dreadonlyapi",
+  "categoryNode": "4171_4172_133130",
+  "reviews": [
+    {
+      "name": "Freeze Up!",
+      "overallRating": {
+        "label": "Overall",
+        "rating": "5"
+      },
+      "productAttributes": [
+        {
+          "label": "Value",
+          "rating": "3"
+        },
+        {
+          "label": "Meets Expectations",
+          "rating": "4"
+        }
+      ],
+      "reviewer": "GamerTom",
+      "reviewText": "My girls (ages 10 and 7) really love this game. It makes them think quickly and is a lot of fun. The only down side (and this is minuscule) is that, while there are hundreds of categories, you do get asked the same questions more than you should. We solved that quickly by making a rule that you can't repeat answers that others have already given. That actually made the game more fun and a little more challenging. The game is fun for the whole family and is GREAT for long car trips.",
+      "submissionTime": "2011-01-31T14:03:03",
+      "title": "Fun game for all........but somewhat repetitive.",
+      "upVotes": "22",
+      "downVotes": "2"
+    },
+    {
+      "name": "Freeze Up!",
+      "overallRating": {
+        "label": "Overall",
+        "rating": "5"
+      },
+      "productAttributes": [
+        {
+          "label": "Value",
+          "rating": "5"
+        },
+        {
+          "label": "Meets Expectations",
+          "rating": "5"
+        }
+      ],
+      "reviewer": "BainbridgeMom",
+      "reviewText": "My 7 year old daughter received this game as a Christmas present and LOVES it! We have played this game several times already on family game night and have a great time and lots of fun every time. Great game at a great price. Highly recommend!",
+      "submissionTime": "2011-01-08T10:23:07",
+      "title": "Great family game!",
+      "upVotes": "15",
+      "downVotes": "3"
+    },
+    {
+      "name": "Freeze Up!",
+      "overallRating": {
+        "label": "Overall",
+        "rating": "3"
+      },
+      "productAttributes": [
+        {
+          "label": "Value",
+          "rating": "2"
+        },
+        {
+          "label": "Meets Expectations",
+          "rating": "1"
+        }
+      ],
+      "reviewer": "HappyInChrist",
+      "reviewText": "Very slow paced. It repeats itselft over and over. We only played it once and probably will not play again. Not worth the money. A better game that is similiar to this one is Catch Phrase.",
+      "submissionTime": "2011-01-03T12:57:19",
+      "title": "03 January 2011",
+      "upVotes": "5",
+      "downVotes": "6"
+    },
+    {
+      "name": "Freeze Up!",
+      "overallRating": {
+        "label": "Overall",
+        "rating": "4"
+      },
+      "productAttributes": [
+        {
+          "label": "Value",
+          "rating": "3"
+        },
+        {
+          "label": "Meets Expectations",
+          "rating": "3"
+        }
+      ],
+      "reviewer": "lulu211",
+      "reviewText": "We enjoy playing this game when sitting around bored. It can be a source of great entertainment.",
+      "submissionTime": "2013-12-26T16:06:17",
+      "title": "Fun for all ages",
+      "upVotes": "1",
+      "downVotes": "0"
+    }
+  ],
+  "reviewStatistics": {
+    "averageOverallRating": "4.25",
+    "overallRatingRange": "5",
+    "ratingDistributions": [
+      {
+        "count": "1",
+        "ratingValue": "3"
+      },
+      {
+        "count": "1",
+        "ratingValue": "4"
+      },
+      {
+        "count": "2",
+        "ratingValue": "5"
+      }
+    ],
+    "totalReviewCount": "4"
+  },
+  "availableOnline": true
+}

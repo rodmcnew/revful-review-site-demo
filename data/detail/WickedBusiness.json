@@ -1,0 +1,120 @@
+{
+  "itemId": 19405500,
+  "name": "Wicked Business",
+  "salePrice": 16.77,
+  "upc": "803455277760",
+  "categoryPath": "Books/Literature & Fiction/Mystery & Suspense/Women Sleuths",
+  "productTrackingUrl": "http://linksynergy.walmart.com/fs-bin/click?id=|LSNID|&offerid=223073.7200&type=14&catid=8&subid=0&hid=7200&tmpid=1082&RD_PARM1=http%253A%252F%252Fwww.walmart.com%252Fip%252FWicked-Business-A-Lizzy-and-Diesel-Novel%252F19405500%253Faffp1%253Dl1dAKNLrNlFLqxAnUYUMtwzELl3x1lA0ev6C4H5U2XY%2526affilsrc%253Dapi",
+  "productUrl": "http://c.affil.walmart.com/t/api06?l=http%3A%2F%2Fwww.walmart.com%2Fip%2FWicked-Business-A-Lizzy-and-Diesel-Novel%2F19405500%3Faffp1%3Dl1dAKNLrNlFLqxAnUYUMtwzELl3x1lA0ev6C4H5U2XY%26affilsrc%3Dapi%26veh%3Daff%26wmlspartner%3Dreadonlyapi",
+  "categoryNode": "3920_582105_586706",
+  "reviews": [
+    {
+      "name": "Wicked Business",
+      "overallRating": {
+        "label": "Overall",
+        "rating": "4"
+      },
+      "productAttributes": [
+        {
+          "label": "Value",
+          "rating": "3"
+        },
+        {
+          "label": "Meets Expectations",
+          "rating": "3"
+        }
+      ],
+      "reviewer": "AliCat411",
+      "reviewText": "As the second book in the series I thought it was great. It was just what I was expecting. I love the characters. It was a quick read and very well written, great for the beach. I think this series can continue for a long time just like the Stephanie Plum series. I for one am looking forward to the next one.",
+      "submissionTime": "2012-07-01T09:21:09",
+      "title": "If you love Janet you will love this book",
+      "upVotes": "0",
+      "downVotes": "0"
+    },
+    {
+      "name": "Wicked Business",
+      "overallRating": {
+        "label": "Overall",
+        "rating": "5"
+      },
+      "productAttributes": [
+        {
+          "label": "Value",
+          "rating": "4"
+        },
+        {
+          "label": "Meets Expectations",
+          "rating": "5"
+        }
+      ],
+      "reviewer": "Lady345",
+      "reviewText": "The book was in great condition and at a very good price online.",
+      "submissionTime": "2012-07-09T15:39:34",
+      "title": "Excellent book",
+      "upVotes": "0",
+      "downVotes": "0"
+    },
+    {
+      "name": "Wicked Business",
+      "overallRating": {
+        "label": "Overall",
+        "rating": "5"
+      },
+      "productAttributes": [
+        {
+          "label": "Value",
+          "rating": "5"
+        },
+        {
+          "label": "Meets Expectations",
+          "rating": "5"
+        }
+      ],
+      "reviewer": "SmilingMusicStar",
+      "reviewText": "I really enjoyed reading this book. I love Janet and her Stephanie Plum series. I love Lizzy's character and the way she thinks as well as her cooking really delicious cupcakes and food. I feel there are similarities between her Plum series and her Lizzy & Diesel series. With this book, the two main male characters remind me of in the Plum series, Ranger and Morelli. I really love how Janet writes and the way she portrays characters. I enjoy her writing style and although this book was full of content I wasn't familiar with, I still really enjoyed this book. Definitely a good read :)",
+      "submissionTime": "2012-07-16T16:12:54",
+      "title": "16 July 2012",
+      "upVotes": "0",
+      "downVotes": "0"
+    },
+    {
+      "name": "Wicked Business",
+      "overallRating": {
+        "label": "Overall",
+        "rating": "5"
+      },
+      "productAttributes": [
+        {
+          "label": "Value",
+          "rating": "5"
+        },
+        {
+          "label": "Meets Expectations",
+          "rating": "5"
+        }
+      ],
+      "reviewer": "Dannyg28",
+      "reviewText": "THis book meets all expectations of Janet Evonovich's writing it is fast paced and funny and I could not wait to turn the page to find out what happens next if you like Janet Evonovich this is a sure winner",
+      "submissionTime": "2012-10-20T05:57:35",
+      "title": "Great Read!!",
+      "upVotes": "0",
+      "downVotes": "0"
+    }
+  ],
+  "reviewStatistics": {
+    "averageOverallRating": "4.75",
+    "overallRatingRange": "5",
+    "ratingDistributions": [
+      {
+        "count": "1",
+        "ratingValue": "4"
+      },
+      {
+        "count": "3",
+        "ratingValue": "5"
+      }
+    ],
+    "totalReviewCount": "4"
+  },
+  "availableOnline": true
+}

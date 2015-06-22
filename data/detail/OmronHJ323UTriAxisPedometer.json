@@ -1,0 +1,68 @@
+{
+  "itemId": 40178100,
+  "name": "Omron HJ-323U Tri Axis Pedometer",
+  "salePrice": 36.94,
+  "upc": "60OKCRtP0299",
+  "categoryPath": "Health/Home Health Care/Exercise & Fitness Monitors",
+  "brandName": "Omron",
+  "productTrackingUrl": "http://linksynergy.walmart.com/fs-bin/click?id=|LSNID|&offerid=223073.7200&type=14&catid=8&subid=0&hid=7200&tmpid=1082&RD_PARM1=http%253A%252F%252Fwww.walmart.com%252Fip%252FOmron-HJ-323U-Tri-Axis-Pedometer%252F40178100%253Faffp1%253Dl1dAKNLrNlFLqxAnUYUMtwzELl3x1lA0ev6C4H5U2XY%2526affilsrc%253Dapi",
+  "productUrl": "http://c.affil.walmart.com/t/api06?l=http%3A%2F%2Fwww.walmart.com%2Fip%2FOmron-HJ-323U-Tri-Axis-Pedometer%2F40178100%3Faffp1%3Dl1dAKNLrNlFLqxAnUYUMtwzELl3x1lA0ev6C4H5U2XY%26affilsrc%3Dapi%26veh%3Daff%26wmlspartner%3Dreadonlyapi",
+  "categoryNode": "976760_1005860_163877",
+  "reviews": [
+    {
+      "name": "Omron HJ-323U Tri Axis Pedometer",
+      "overallRating": {
+        "label": "Overall",
+        "rating": "1"
+      },
+      "reviewer": "Cheryl",
+      "reviewText": "Have had Omron pedometers in the past and loved them. This one is terrible..it is so inconsistent with downloading. Sometimes it downloads fine and other times it just won't download. Cannot rely on it.",
+      "submissionTime": "2015-01-19T05:55:09",
+      "title": "difficulty downloading date",
+      "upVotes": "0",
+      "downVotes": "0"
+    },
+    {
+      "name": "Omron HJ-323U Tri Axis Pedometer",
+      "overallRating": {
+        "label": "Overall",
+        "rating": "4"
+      },
+      "reviewer": "DRBroundthework",
+      "reviewText": "I bot this over a year ago to replace an older Omron model that I lost. It took some getting used to and time to set up but so far it's been working like a charm. And I'm in the gym doing cardio and strength training 5+ days a week, plus lots of hiking on the weekends. It probably gets more sweat on it than it should but I've never had issues; unlike the previous model I had. I've had a few hicups w/ uploading the data but I think it was more a website issue than the ped issue. The ped has performed well and the battery has a long life.",
+      "submissionTime": "2015-01-22T11:05:55",
+      "title": "Better than the previous Omron ped",
+      "upVotes": "0",
+      "downVotes": "0"
+    },
+    {
+      "name": "Omron HJ-323U Tri Axis Pedometer",
+      "overallRating": {
+        "label": "Overall",
+        "rating": "1"
+      },
+      "reviewer": "Speedy7",
+      "reviewText": "I got this through my job to help keep track of my steps. But when it came time do download the information for work it wouldn't download. I even had it hooked to the computer for 3 hours waiting, and it would just say downloading. No hour glass, no spinning circle, no moving lines, nothing. I would not recommend this product.",
+      "submissionTime": "2015-03-30T16:18:20",
+      "title": "wont download",
+      "upVotes": "0",
+      "downVotes": "0"
+    }
+  ],
+  "reviewStatistics": {
+    "averageOverallRating": "2.0",
+    "overallRatingRange": "5",
+    "ratingDistributions": [
+      {
+        "count": "2",
+        "ratingValue": "1"
+      },
+      {
+        "count": "1",
+        "ratingValue": "4"
+      }
+    ],
+    "totalReviewCount": "3"
+  },
+  "availableOnline": true
+}

@@ -1,0 +1,111 @@
+{
+  "itemId": 36209364,
+  "name": "ASUS Black 17.3\" G750JM-DS71 Laptop PC with Intel Core i7-4700HQ Quad-Core Processor, 12GB Memory, 1TB Hard Drive and Windows 8.1",
+  "salePrice": 1349.99,
+  "upc": "886227687664",
+  "categoryPath": "Electronics/Computers/Laptop Computers",
+  "brandName": "Asus",
+  "productTrackingUrl": "http://linksynergy.walmart.com/fs-bin/click?id=|LSNID|&offerid=223073.7200&type=14&catid=8&subid=0&hid=7200&tmpid=1082&RD_PARM1=http%253A%252F%252Fwww.walmart.com%252Fip%252FASUS-Black-17.3-G750JM-DS71-Laptop-PC-with-Intel-Core-i7-4700HQ-Quad-Core-Processor-12GB-Memory-1TB-Hard-Drive-and-Windows-8.1%252F36209364%253Faffp1%253Dl1dAKNLrNlFLqxAnUYUMtwzELl3x1lA0ev6C4H5U2XY%2526affilsrc%253Dapi",
+  "productUrl": "http://c.affil.walmart.com/t/api06?l=http%3A%2F%2Fwww.walmart.com%2Fip%2FASUS-Black-17.3-G750JM-DS71-Laptop-PC-with-Intel-Core-i7-4700HQ-Quad-Core-Processor-12GB-Memory-1TB-Hard-Drive-and-Windows-8.1%2F36209364%3Faffp1%3Dl1dAKNLrNlFLqxAnUYUMtwzELl3x1lA0ev6C4H5U2XY%26affilsrc%3Dapi%26veh%3Daff%26wmlspartner%3Dreadonlyapi",
+  "categoryNode": "3944_3951_132960",
+  "reviews": [
+    {
+      "name": "ASUS Black 17.3\" G750JM-DS71 Laptop PC with Intel Core i7-4700HQ Quad-Core Processor, 12GB Memory, 1TB Hard Drive and Windows 8.1",
+      "overallRating": {
+        "label": "Overall",
+        "rating": "4"
+      },
+      "reviewer": "Marshall",
+      "reviewText": "Only had it a week but runs like a beast so far. Only downside is that the built is sound is a little wonky and the fan is a little noisier than my old Asus GS7.",
+      "submissionTime": "2015-01-26T05:21:58",
+      "title": "On the whole, a great machine",
+      "upVotes": "3",
+      "downVotes": "0"
+    },
+    {
+      "name": "ASUS Black 17.3\" G750JM-DS71 Laptop PC with Intel Core i7-4700HQ Quad-Core Processor, 12GB Memory, 1TB Hard Drive and Windows 8.1",
+      "overallRating": {
+        "label": "Overall",
+        "rating": "4"
+      },
+      "productAttributes": [
+        {
+          "label": "Value",
+          "rating": "4"
+        },
+        {
+          "label": "Meets Expectations",
+          "rating": "4"
+        }
+      ],
+      "reviewer": "BLCAB",
+      "reviewText": "THIS ONE WORKS GOOD SO FAR AND HAVE NOT HAVE ANY PROBLEMS YET. HOPE IT STAYS THAT WAY.",
+      "submissionTime": "2014-11-03T06:41:08",
+      "title": "MY LAPTOP",
+      "upVotes": "1",
+      "downVotes": "5"
+    },
+    {
+      "name": "ASUS Black 17.3\" G750JM-DS71 Laptop PC with Intel Core i7-4700HQ Quad-Core Processor, 12GB Memory, 1TB Hard Drive and Windows 8.1",
+      "overallRating": {
+        "label": "Overall",
+        "rating": "4"
+      },
+      "productAttributes": [
+        {
+          "label": "Value",
+          "rating": "4"
+        },
+        {
+          "label": "Meets Expectations",
+          "rating": "4"
+        }
+      ],
+      "reviewer": "jjabber1",
+      "reviewText": "I do like this laptop very much. It is a solid computer and I hope it lasts for a good long while. It has all the features I was looking for in a new computer plus more.",
+      "submissionTime": "2014-08-18T13:01:46",
+      "title": "A nice replacement for the old desktop tower!",
+      "upVotes": "1",
+      "downVotes": "6"
+    },
+    {
+      "name": "ASUS Black 17.3\" G750JM-DS71 Laptop PC with Intel Core i7-4700HQ Quad-Core Processor, 12GB Memory, 1TB Hard Drive and Windows 8.1",
+      "overallRating": {
+        "label": "Overall",
+        "rating": "5"
+      },
+      "productAttributes": [
+        {
+          "label": "Value",
+          "rating": "5"
+        },
+        {
+          "label": "Meets Expectations",
+          "rating": "5"
+        }
+      ],
+      "reviewer": "abodullah",
+      "reviewText": "Good laptop",
+      "submissionTime": "2014-05-28T15:41:50",
+      "title": "A",
+      "upVotes": "1",
+      "downVotes": "33"
+    }
+  ],
+  "reviewStatistics": {
+    "averageOverallRating": "4.25",
+    "overallRatingRange": "5",
+    "ratingDistributions": [
+      {
+        "count": "3",
+        "ratingValue": "4"
+      },
+      {
+        "count": "1",
+        "ratingValue": "5"
+      }
+    ],
+    "totalReviewCount": "4"
+  },
+  "availableOnline": true
+}

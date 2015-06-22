@@ -1,0 +1,64 @@
+{
+  "itemId": 38204924,
+  "name": "John Deere Wastebasket",
+  "salePrice": 9.88,
+  "upc": "032281015268",
+  "categoryPath": "Home/Bath/Bathroom Accessories",
+  "brandName": "Generic",
+  "productTrackingUrl": "http://linksynergy.walmart.com/fs-bin/click?id=|LSNID|&offerid=223073.7200&type=14&catid=8&subid=0&hid=7200&tmpid=1082&RD_PARM1=http%253A%252F%252Fwww.walmart.com%252Fip%252FJohn-Deere-Wastebasket%252F38204924%253Faffp1%253Dl1dAKNLrNlFLqxAnUYUMtwzELl3x1lA0ev6C4H5U2XY%2526affilsrc%253Dapi",
+  "productUrl": "http://c.affil.walmart.com/t/api06?l=http%3A%2F%2Fwww.walmart.com%2Fip%2FJohn-Deere-Wastebasket%2F38204924%3Faffp1%3Dl1dAKNLrNlFLqxAnUYUMtwzELl3x1lA0ev6C4H5U2XY%26affilsrc%3Dapi%26veh%3Daff%26wmlspartner%3Dreadonlyapi",
+  "categoryNode": "4044_539095_133000",
+  "reviews": [
+    {
+      "name": "John Deere Wastebasket",
+      "overallRating": {
+        "label": "Overall",
+        "rating": "5"
+      },
+      "reviewer": "momof7",
+      "reviewText": "I love this. Goes great with my John Deere bathroom.",
+      "submissionTime": "2015-03-20T18:50:35",
+      "title": "Awsome!",
+      "upVotes": "0",
+      "downVotes": "0"
+    },
+    {
+      "name": "John Deere Wastebasket",
+      "overallRating": {
+        "label": "Overall",
+        "rating": "5"
+      },
+      "reviewer": "Shell",
+      "reviewText": "Sturdy material overall good product",
+      "submissionTime": "2015-03-02T01:44:15",
+      "title": "Holds its trash",
+      "upVotes": "0",
+      "downVotes": "0"
+    },
+    {
+      "name": "John Deere Wastebasket",
+      "overallRating": {
+        "label": "Overall",
+        "rating": "5"
+      },
+      "reviewer": "brlracr2",
+      "reviewText": "It's a wastebasket...what can I say? Seems durable, does its job and my son loves the John Deere design.",
+      "submissionTime": "2015-02-13T20:38:54",
+      "title": "Nice wastebasket",
+      "upVotes": "0",
+      "downVotes": "0"
+    }
+  ],
+  "reviewStatistics": {
+    "averageOverallRating": "5.0",
+    "overallRatingRange": "5",
+    "ratingDistributions": [
+      {
+        "count": "3",
+        "ratingValue": "5"
+      }
+    ],
+    "totalReviewCount": "3"
+  },
+  "availableOnline": true
+}

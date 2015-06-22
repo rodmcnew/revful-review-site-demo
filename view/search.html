@@ -1,0 +1,20 @@
+<h1>Search Product Reviews</h1>
+
+<div ng-controller="Home as self">
+    <autocomplete ng-model="self.selected" data="self.items" on-select="self.onSelect"></autocomplete>
+    <br>
+
+    <div ng-show="self.selected">
+        <!--<h3>{{self.item.name}}</h3>-->
+
+        <div ng-repeat="review in self.item.reviews" class="panel panel-default">
+            <div class="panel-heading"> {{review.title}}</div>
+            <div class="panel-body">
+                {{review.reviewText}}
+                <br><br>
+                -{{review.reviewer}}
+            </div>
+        </div>
+        <div ng-show="!self.item.reviews.length">No reviews found for this item.</div>
+    </div>
+</div>

@@ -1,0 +1,92 @@
+{
+  "itemId": 23149305,
+  "name": "Philips Norelco Do-It-Yourself Clipper (Model # QC5570/40)",
+  "salePrice": 38.95,
+  "upc": "075020031174",
+  "categoryPath": "Seasonal/Father's Day/Personal Care",
+  "brandName": "Philips Norelco",
+  "productTrackingUrl": "http://linksynergy.walmart.com/fs-bin/click?id=|LSNID|&offerid=223073.7200&type=14&catid=8&subid=0&hid=7200&tmpid=1082&RD_PARM1=http%253A%252F%252Fwww.walmart.com%252Fip%252FPhilips-Norelco-Hair-Clipper%252F23149305%253Faffp1%253Dl1dAKNLrNlFLqxAnUYUMtwzELl3x1lA0ev6C4H5U2XY%2526affilsrc%253Dapi",
+  "productUrl": "http://c.affil.walmart.com/t/api06?l=http%3A%2F%2Fwww.walmart.com%2Fip%2FPhilips-Norelco-Hair-Clipper%2F23149305%3Faffp1%3Dl1dAKNLrNlFLqxAnUYUMtwzELl3x1lA0ev6C4H5U2XY%26affilsrc%3Dapi%26veh%3Daff%26wmlspartner%3Dreadonlyapi",
+  "categoryNode": "1085632_1094344",
+  "reviews": [
+    {
+      "name": "Philips Norelco Do-It-Yourself Clipper (Model # QC5570/40)",
+      "overallRating": {
+        "label": "Overall",
+        "rating": "4"
+      },
+      "productAttributes": [
+        {
+          "label": "Ease of Use",
+          "rating": "5"
+        }
+      ],
+      "reviewer": "fleis01",
+      "reviewText": "I have only used this trimmer once so far, and it worked great. I am only giving it 4 stars since I had a previous version of this trimmer that had to be returned after the 3rd use. Due to the time it takes for my hair to grow, it will be a while before I will feel confident enough to rate this a 5 star product. I love the design and ease of use.",
+      "submissionTime": "2013-09-17T07:44:24",
+      "title": "So far, so good",
+      "upVotes": "0",
+      "downVotes": "0"
+    },
+    {
+      "name": "Philips Norelco Do-It-Yourself Clipper (Model # QC5570/40)",
+      "overallRating": {
+        "label": "Overall",
+        "rating": "5"
+      },
+      "productAttributes": [
+        {
+          "label": "Ease of Use",
+          "rating": "5"
+        },
+        {
+          "label": "Value",
+          "rating": "5"
+        },
+        {
+          "label": "Quality",
+          "rating": "5"
+        }
+      ],
+      "reviewer": "Laodao1234",
+      "reviewText": "you would like it if you buy it.",
+      "submissionTime": "2014-08-05T21:42:02",
+      "title": "the good stuff with the good price.",
+      "upVotes": "0",
+      "downVotes": "0"
+    },
+    {
+      "name": "Philips Norelco Do-It-Yourself Clipper (Model # QC5570/40)",
+      "overallRating": {
+        "label": "Overall",
+        "rating": "3"
+      },
+      "reviewer": "Selfie",
+      "reviewText": "You need practice to use this tool. You will mesh up your head and goto a barber for correcting it. You will do your next trial after two months. Again you try, if it fails goto barber....",
+      "submissionTime": "2015-05-19T14:22:38",
+      "title": "It looks easy but hard",
+      "upVotes": "0",
+      "downVotes": "0"
+    }
+  ],
+  "reviewStatistics": {
+    "averageOverallRating": "4.0",
+    "overallRatingRange": "5",
+    "ratingDistributions": [
+      {
+        "count": "1",
+        "ratingValue": "3"
+      },
+      {
+        "count": "1",
+        "ratingValue": "4"
+      },
+      {
+        "count": "1",
+        "ratingValue": "5"
+      }
+    ],
+    "totalReviewCount": "3"
+  },
+  "availableOnline": true
+}

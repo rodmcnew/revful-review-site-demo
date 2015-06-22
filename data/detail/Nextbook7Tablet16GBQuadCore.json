@@ -1,0 +1,116 @@
+{
+  "itemId": 38334381,
+  "name": "Nextbook 7\" Tablet 16GB Quad Core",
+  "salePrice": 59.99,
+  "upc": "847275000799",
+  "categoryPath": "Electronics/Computers/Tablet PCs",
+  "brandName": "Nextbook",
+  "productTrackingUrl": "http://linksynergy.walmart.com/fs-bin/click?id=|LSNID|&offerid=223073.7200&type=14&catid=8&subid=0&hid=7200&tmpid=1082&RD_PARM1=http%253A%252F%252Fwww.walmart.com%252Fip%252FNextbook-7-Tablet-16GB-Quad-Core%252F38334381%253Faffp1%253Dl1dAKNLrNlFLqxAnUYUMtwzELl3x1lA0ev6C4H5U2XY%2526affilsrc%253Dapi",
+  "productUrl": "http://c.affil.walmart.com/t/api06?l=http%3A%2F%2Fwww.walmart.com%2Fip%2FNextbook-7-Tablet-16GB-Quad-Core%2F38334381%3Faffp1%3Dl1dAKNLrNlFLqxAnUYUMtwzELl3x1lA0ev6C4H5U2XY%26affilsrc%3Dapi%26veh%3Daff%26wmlspartner%3Dreadonlyapi",
+  "categoryNode": "3944_3951_1078084",
+  "reviews": [
+    {
+      "name": "Nextbook 7\" Tablet 16GB Quad Core",
+      "overallRating": {
+        "label": "Overall",
+        "rating": "4"
+      },
+      "reviewer": "DirkSteel",
+      "reviewText": "Some of the other reviewers gave accurate assessments of the current situation with this tablet. It has a few glitches, but has a lot of CPU power for a tablet in this price range. I ran a few benchmarks, most notably the Antutu score for this Nextbook tablet was - 22749. My Galaxy Tab 4 8\" which also has a quad-core CPU scored - 1728. The Antutu 3D rating benchmark score for the NextBook was - 3037 on the Galaxy Tab 4 it was - 2765.\n\nThe processor is compatible with ARM v7 so it will run almost every app that you will find in the Google Play store. Despite warnings listed with the specifications and promotional video on the Nextbook website... the GPS seems to work fine with or without a wifi connection and even picks up satellites inside our house. The screen is nothing to scream about, but has a fairly wide viewing angle and is perfectly fine for e-reading, watching movies on Netflix and YouTube and playing games. The touch response seems fine. The sound comes out of a small speaker in the back, but sounds OK. Sound through the head phones is good. The VGA resolution front facing camera is probably fine for video conferencing but I am not sure that it will work well for UPC scanning.\n\nAs noted previously the onboard storage is partitioned so that it only has 1 GB reserved for applications. This is a problem because if you let all of the Google Apps that come with the tablet update they will take up approximately 800 MBs of this reserved space even before you add a single app. To keep this from happening the first thing to do is to go into the Google Play store and click on the icon that looks like three little lines in the top left corner of the screen. Now go to settings and uncheck the notifications box. Then click on Auto-update apps and check \"Do not auto-update apps\".\n\nEvery time you go into My apps in the Google Play Store the first thing that you are going to see is Updates... and it will list all of the built-in apps as needing updates. and it will try to entice you into hitting the \"Update All\" button... NEVER DO THIS until after you have installed the soon to be released update that will increase the size of the apps partition. If you have difficulties with one of the Google apps... update only that app. I ended up updating the Google Play Store app and another app or two.\n\nEvery time that I have updated one of the Google apps or installed a new app I have immediately gone to the apps control module in the main settings menu. Selected the app that I just installed and clicked on \"move to internal storage\" this keeps about 10 MBs or less on average for each app in the 1GB partition reserved for apps. Because there is about 200 MBs already taken by preinstalled apps when factory new... that leaves you with about 800 MBs for newly installed apps. If you follow the advice above... you will most likely be able to install most if not all of the apps that you would want on this tablet.\n\nThere is already a new ROM update file for this device on the NextBook website but as of this morning the installation programs and drivers listed with the update are corrupted. People who have spoken with Nextbook were told that the update will repartition internal storage so that more space will be available for apps. They were also told this update will be working shortly. Once a \"rooting\" solution is found... (and it most likely also will be coming soon) one won't have to worry about any of this any more because one will then have the option of repartitioning the storage, and application space to whatever values wanted. One will also have the option of running your apps from an external SD Card using apps such as Link2SD.\n\nI did find a few \"secret\" menus in the tablet. Most importantly if you go into the Settings menu... About Tablet. and then tap multiple times on the Build number the tablet will turn on \"Developer options\". This one is not \"secret\" to anyone familiar with \"KitKat\" but it is there. You can also get to recovery mode when powering up by holding the volume up and then the power buttons then press the power button again when you get to the first screen... it will then go into \"Boot Mode\" where you can select [Recovery Mode], [Fastboot Mode], or [Normal Mode] by pressing the up volume to move the cursor and the down volume to select. In recovery mode you can apply updates, save your user data, do a factory reset, or other maintenance procedures.\n\nThis tablet is very powerful considering its price range. If you don't care about having a big screen or a decent camera and can work around the undersized apps partition until the upcoming update is working I would highly recommend it. It has great compatibility and works well.",
+      "submissionTime": "2014-11-29T14:09:56",
+      "title": "Powerful tablet w. minor glitches but great value",
+      "upVotes": "282",
+      "downVotes": "23"
+    },
+    {
+      "name": "Nextbook 7\" Tablet 16GB Quad Core",
+      "overallRating": {
+        "label": "Overall",
+        "rating": "4"
+      },
+      "productAttributes": [
+        {
+          "label": "Value",
+          "rating": "5"
+        },
+        {
+          "label": "Meets Expectations",
+          "rating": "5"
+        }
+      ],
+      "reviewer": "Dooger67",
+      "reviewText": "Ordered 3 for my sons based on Specs alone and am very happy with them. Fully featured and fast with the 4.4.2 Kit Kat OS - simply unbeatable value. Didn't know if it would play the demanding 3d titles but it handles everything we can throw at it like a champ. Has GPS and Bluetooth and 16 GB Ram with a 3000mha Lithium Polymer battery. Features you would never expect from a $79 tablet. Great size for kids and as an e-reader. Used one for 4 hours and still shows 90% battery remaining. Based on that the charge should last just about forever. Only one or two small complaints.. The Screen can be washed out with darker colors and must be viewed at a very specific angle (dead on). Off angle viewing is terrible. Specs say it is an IPS display, but if it is it is the worst implementation of IPS I've seen. Has a single front facing camera and the picture quality is awful. I would say it is useable for Skype and not much else. These are minor complaints in the grand scheme of things though. Have 3 of them and I might by a couple more for myself and the wife. Why not? only $79!",
+      "submissionTime": "2014-09-12T06:49:53",
+      "title": "Fantastic Mid Market Tablet",
+      "upVotes": "577",
+      "downVotes": "118"
+    },
+    {
+      "name": "Nextbook 7\" Tablet 16GB Quad Core",
+      "overallRating": {
+        "label": "Overall",
+        "rating": "3"
+      },
+      "reviewer": "Peter03102",
+      "reviewText": "Would I recomend this. Yes with conditions on the type of use.\n\nThis device is fast. A 1.5Ghz quad core CPUs with 1Gb of RAM. Comes with GPS, bluetooth 4 and android 4.4.2 all at 79 dollars. This is a great deal. Set up Google no problem. Loaded Amazon music and video with no problem. Streams video great. I added a 32Gb memory card.\n\nThen I accessed the Google Play Store. Some of the updates were aborted due to insufficent memory. But I understood there was 16Gb. I investigated.\n\nThere is 16Gb internal flash memory. 1Gb used by the operating system partition. 1Gb used by the application partition. And around 13Gb used by the data partition emulating and external SD card.\n\nI deleted net nanny and nook and moved Flixster over to the memory card. Some apps can be moved to save memory. But there are apps that cannot be moved. 1Gb is kinda tight. I am using 700 Meg's or so. Not easy to fix. There is rooting but I don't know how. Maybe I won't have a problem since I can look for apps that can be moved to data memory. I think 1Gb is to tight. I will investigate and contact efun nextbookusa about this.\n\nSome people won't have a problem. Some apps are not that big. Some can move there apps to the data memory. But I would like to see more app memory.",
+      "submissionTime": "2014-09-18T18:04:05",
+      "title": "Great hardware BUT tight internal memory",
+      "upVotes": "550",
+      "downVotes": "119"
+    },
+    {
+      "name": "Nextbook 7\" Tablet 16GB Quad Core",
+      "overallRating": {
+        "label": "Overall",
+        "rating": "5"
+      },
+      "reviewer": "STREETHACKER",
+      "reviewText": "For the price this is a very good deal seen lots of complaints about app storage having only 1gb of app space, this is true and can be fixed. Nextbook has a firmware flash on their website to correct this problem not easy to do for those not familiar with flashing, but it can be, you will have to download driver, flash tool and updated to a desktop to install, there is also instructions for those not familiar, make sure you download the correct software for your model, I purchased 2 tablets and flashed them and both tablets now have access to to all 16gb of storage for applications, hope this is helpful.",
+      "submissionTime": "2014-12-10T09:12:58",
+      "title": "You can get more than 1GB of app stoarge, READ!",
+      "upVotes": "475",
+      "downVotes": "104"
+    },
+    {
+      "name": "Nextbook 7\" Tablet 16GB Quad Core",
+      "overallRating": {
+        "label": "Overall",
+        "rating": "1"
+      },
+      "reviewer": "MikeWt",
+      "reviewText": "Tablet has two internal storage, one with 2 GB (1 GB available) and another one with 14 GB (12 GB available). Any downloaded app must share both storage. As soon as 1 GB of the 1st storage get filled no other app can be downloaded. So the total memory can be used is about 4 GB.",
+      "submissionTime": "2014-11-20T20:26:13",
+      "title": "Beware! Only 4 out of 16 GB usable memory",
+      "upVotes": "156",
+      "downVotes": "23"
+    }
+  ],
+  "reviewStatistics": {
+    "averageOverallRating": "3.63",
+    "overallRatingRange": "5",
+    "ratingDistributions": [
+      {
+        "count": "178",
+        "ratingValue": "1"
+      },
+      {
+        "count": "60",
+        "ratingValue": "2"
+      },
+      {
+        "count": "65",
+        "ratingValue": "3"
+      },
+      {
+        "count": "287",
+        "ratingValue": "4"
+      },
+      {
+        "count": "363",
+        "ratingValue": "5"
+      }
+    ],
+    "totalReviewCount": "953"
+  },
+  "availableOnline": true
+}

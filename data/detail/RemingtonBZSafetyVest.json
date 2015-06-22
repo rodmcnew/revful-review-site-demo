@@ -1,0 +1,88 @@
+{
+  "itemId": 21270382,
+  "name": "Remington BZ Safety Vest",
+  "salePrice": 5.11,
+  "upc": "026509157519",
+  "categoryPath": "Sports & Outdoors/Outdoor Sports/Hunting/Game Management/Hearing & Eye Protection",
+  "brandName": "Allen Company",
+  "productTrackingUrl": "http://linksynergy.walmart.com/fs-bin/click?id=|LSNID|&offerid=223073.7200&type=14&catid=8&subid=0&hid=7200&tmpid=1082&RD_PARM1=http%253A%252F%252Fwww.walmart.com%252Fip%252FRemington-BZ-Safety-Vest%252F21270382%253Faffp1%253Dl1dAKNLrNlFLqxAnUYUMtwzELl3x1lA0ev6C4H5U2XY%2526affilsrc%253Dapi",
+  "productUrl": "http://c.affil.walmart.com/t/api06?l=http%3A%2F%2Fwww.walmart.com%2Fip%2FRemington-BZ-Safety-Vest%2F21270382%3Faffp1%3Dl1dAKNLrNlFLqxAnUYUMtwzELl3x1lA0ev6C4H5U2XY%26affilsrc%3Dapi%26veh%3Daff%26wmlspartner%3Dreadonlyapi",
+  "categoryNode": "4125_546956",
+  "reviews": [
+    {
+      "name": "Remington BZ Safety Vest",
+      "overallRating": {
+        "label": "Overall",
+        "rating": "2"
+      },
+      "productAttributes": [
+        {
+          "label": "Value",
+          "rating": "5"
+        },
+        {
+          "label": "Meets Expectations",
+          "rating": "2"
+        }
+      ],
+      "reviewer": "HunterNY2",
+      "reviewText": "This vest is way too small. Because it is for youth. THe seller should mark this product as for \"youth\".",
+      "submissionTime": "2013-10-22T16:50:53",
+      "title": "Too small",
+      "upVotes": "0",
+      "downVotes": "0"
+    },
+    {
+      "name": "Remington BZ Safety Vest",
+      "overallRating": {
+        "label": "Overall",
+        "rating": "4"
+      },
+      "productAttributes": [
+        {
+          "label": "Value",
+          "rating": "5"
+        },
+        {
+          "label": "Meets Expectations",
+          "rating": "4"
+        }
+      ],
+      "reviewer": "Bemstoy",
+      "reviewText": "Received the items in a timely manner. I did not realize when I looked at item it was a child's size...unless I did something wrong on my order. Nevertheless, disappointed as I was with myself, for not paying more attention - the item is still usable...a little snug...but useable.\nRemember to make sure of the sizes and whether they are jr or adult sizes.",
+      "submissionTime": "2013-10-23T07:09:05",
+      "title": "safety vest",
+      "upVotes": "0",
+      "downVotes": "0"
+    },
+    {
+      "name": "Remington BZ Safety Vest",
+      "overallRating": {
+        "label": "Overall",
+        "rating": "4"
+      },
+      "reviewer": "aganess",
+      "reviewText": "I purchased a size to small but it will be given to another",
+      "submissionTime": "2015-01-07T20:26:37",
+      "title": "vest",
+      "upVotes": "0",
+      "downVotes": "0"
+    }
+  ],
+  "reviewStatistics": {
+    "averageOverallRating": "3.33",
+    "overallRatingRange": "5",
+    "ratingDistributions": [
+      {
+        "count": "1",
+        "ratingValue": "2"
+      },
+      {
+        "count": "2",
+        "ratingValue": "4"
+      }
+    ],
+    "totalReviewCount": "3"
+  },
+  "availableOnline": true
+}

@@ -1,0 +1,94 @@
+{
+  "itemId": 42456573,
+  "name": "APC Network Management Card 2 - Remote management adapter - SmartSlot - 10/100 Ethernet - black - for Smart-UPS 1000, 15",
+  "salePrice": 245.91,
+  "upc": "52OMZVth1122",
+  "categoryPath": "Electronics/Computers/Networking/Networking Cables & Accessories",
+  "brandName": "APC",
+  "productTrackingUrl": "http://linksynergy.walmart.com/fs-bin/click?id=|LSNID|&offerid=223073.7200&type=14&catid=8&subid=0&hid=7200&tmpid=1082&RD_PARM1=http%253A%252F%252Fwww.walmart.com%252Fip%252FAPC-Network-Management-Card-2-Remote-management-adapter-SmartSlot-10-100-Ethernet-black-for-Smart-UPS-1000-15%252F42456573%253Faffp1%253Dl1dAKNLrNlFLqxAnUYUMtwzELl3x1lA0ev6C4H5U2XY%2526affilsrc%253Dapi",
+  "productUrl": "http://c.affil.walmart.com/t/api06?l=http%3A%2F%2Fwww.walmart.com%2Fip%2FAPC-Network-Management-Card-2-Remote-management-adapter-SmartSlot-10-100-Ethernet-black-for-Smart-UPS-1000-15%2F42456573%3Faffp1%3Dl1dAKNLrNlFLqxAnUYUMtwzELl3x1lA0ev6C4H5U2XY%26affilsrc%3Dapi%26veh%3Daff%26wmlspartner%3Dreadonlyapi",
+  "categoryNode": "3944_3951_126297",
+  "reviews": [
+    {
+      "name": "APC Network Management Card 2 - Remote management adapter - SmartSlot - 10/100 Ethernet - black - for Smart-UPS 1000, 15",
+      "overallRating": {
+        "label": "Overall",
+        "rating": "5"
+      },
+      "reviewer": "md",
+      "reviewText": "Product was what we expected it to be. Received in a reasonable time, delivered without incident. Easy installation, easy config. Works as expected, and we are happy to have it in our system...a good tool for us!",
+      "submissionTime": "2011-12-08T06:43:32",
+      "title": "AP9630",
+      "upVotes": "0",
+      "downVotes": "0"
+    },
+    {
+      "name": "APC Network Management Card 2 - Remote management adapter - SmartSlot - 10/100 Ethernet - black - for Smart-UPS 1000, 15",
+      "overallRating": {
+        "label": "Overall",
+        "rating": "5"
+      },
+      "reviewer": "skypilot",
+      "reviewText": "Works like a charm for what it is. I do not like the flipping of proprietary interfaces since buying a new card with every unit is not good spending practice. Since the unit fails before the card does for me.\n\nMine are all beaten daily by a paint a shop, so I need to keep track of vitals before they fail.",
+      "submissionTime": "2011-02-06T08:19:45",
+      "title": "ap9630",
+      "upVotes": "0",
+      "downVotes": "0"
+    },
+    {
+      "name": "APC Network Management Card 2 - Remote management adapter - SmartSlot - 10/100 Ethernet - black - for Smart-UPS 1000, 15",
+      "overallRating": {
+        "label": "Overall",
+        "rating": "5"
+      },
+      "reviewer": "Reno runner",
+      "reviewText": "I have this card installed in many locations, some 100s of miles apart. The status notifications have show several sites that over voltage was being received and flagged repairs that were needed. This has more than paid for the purchase and install costs. We are installing these cards at all locations. I recommend you do too.",
+      "submissionTime": "2010-09-02T17:03:12",
+      "title": "This card is worthy of its cost.",
+      "upVotes": "0",
+      "downVotes": "0"
+    },
+    {
+      "name": "APC Network Management Card 2 - Remote management adapter - SmartSlot - 10/100 Ethernet - black - for Smart-UPS 1000, 15",
+      "overallRating": {
+        "label": "Overall",
+        "rating": "5"
+      },
+      "reviewer": "DaveN",
+      "reviewText": "It's hard to fall in love with the network management card for a UPS - not a very sexy product. One thing I can say about these, though, is that they work exactly as advertised and last forever.\n\nMy best tip: Get the MAC address off the sticker before installing the card (because you can't always read it from the enclosed test results printout). Then create a DHCP reservation for the card before connecting it to the network. This will save you figuring out or running the utility to determine the unit's IP address.\n\nI had to update the firmware to match that of another UPS for redundancy purposes. Although the firmware takes a little while to update itself, the process itself is easy to do from your workstation - don't hesitate if you have a reason for updating.",
+      "submissionTime": "2012-08-20T09:30:53",
+      "title": "Network Management Card",
+      "upVotes": "0",
+      "downVotes": "0"
+    },
+    {
+      "name": "APC Network Management Card 2 - Remote management adapter - SmartSlot - 10/100 Ethernet - black - for Smart-UPS 1000, 15",
+      "overallRating": {
+        "label": "Overall",
+        "rating": "1"
+      },
+      "reviewer": "alandbets",
+      "reviewText": "Looks like they went back to the stone age on the serial connected set up on the card. The 9617 and 9619 basic setup is better.",
+      "submissionTime": "2010-02-19T12:52:53",
+      "title": "Setup",
+      "upVotes": "0",
+      "downVotes": "0"
+    }
+  ],
+  "reviewStatistics": {
+    "averageOverallRating": "4.33",
+    "overallRatingRange": "5",
+    "ratingDistributions": [
+      {
+        "count": "1",
+        "ratingValue": "1"
+      },
+      {
+        "count": "5",
+        "ratingValue": "5"
+      }
+    ],
+    "totalReviewCount": "6"
+  },
+  "availableOnline": true
+}

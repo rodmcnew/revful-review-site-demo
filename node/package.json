@@ -1,0 +1,24 @@
+{
+  "name": "revful.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "angular.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/revful/revful.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/revful/revful.github.io/issues"
+  },
+  "homepage": "https://github.com/revful/revful.github.io",
+  "dependencies": {
+    "jsonfile": "^2.0.0",
+    "limiter": "^1.0.5",
+    "request": "^2.55.0"
+  }
+}

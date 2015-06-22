@@ -1,0 +1,146 @@
+{
+  "itemId": 28421485,
+  "name": "RealTree Xtra Camo Valance",
+  "salePrice": 14.4,
+  "upc": "034441949147",
+  "categoryPath": "Home/Decor/Curtains & Window Treatments/Valances",
+  "brandName": "Real Tree",
+  "productTrackingUrl": "http://linksynergy.walmart.com/fs-bin/click?id=|LSNID|&offerid=223073.7200&type=14&catid=8&subid=0&hid=7200&tmpid=1082&RD_PARM1=http%253A%252F%252Fwww.walmart.com%252Fip%252FReal-Tree-Xtra-Camo-Valance%252F28421485%253Faffp1%253Dl1dAKNLrNlFLqxAnUYUMtwzELl3x1lA0ev6C4H5U2XY%2526affilsrc%253Dapi",
+  "productUrl": "http://c.affil.walmart.com/t/api06?l=http%3A%2F%2Fwww.walmart.com%2Fip%2FReal-Tree-Xtra-Camo-Valance%2F28421485%3Faffp1%3Dl1dAKNLrNlFLqxAnUYUMtwzELl3x1lA0ev6C4H5U2XY%26affilsrc%3Dapi%26veh%3Daff%26wmlspartner%3Dreadonlyapi",
+  "categoryNode": "4044_133012_539105",
+  "reviews": [
+    {
+      "name": "RealTree Xtra Camo Valance",
+      "overallRating": {
+        "label": "Overall",
+        "rating": "2"
+      },
+      "productAttributes": [
+        {
+          "label": "Value",
+          "rating": "2"
+        },
+        {
+          "label": "Meets Expectations",
+          "rating": "1"
+        }
+      ],
+      "reviewer": "slb44",
+      "reviewText": "bought 14 of these supposedly 60 X 15 inch. The 15\" varies between 14 3/4 to 16. Not a good thing when hung end to end in my sunroom.",
+      "submissionTime": "2014-04-08T07:19:18",
+      "title": "size is inconsistant",
+      "upVotes": "3",
+      "downVotes": "0"
+    },
+    {
+      "name": "RealTree Xtra Camo Valance",
+      "overallRating": {
+        "label": "Overall",
+        "rating": "5"
+      },
+      "productAttributes": [
+        {
+          "label": "Value",
+          "rating": "5"
+        },
+        {
+          "label": "Meets Expectations",
+          "rating": "5"
+        }
+      ],
+      "reviewer": "1GummyBear",
+      "reviewText": "I love my two new Realtree valances! Nice heavy fabric and well made product. I would recommend this product.",
+      "submissionTime": "2014-08-27T09:12:22",
+      "title": "A well-made product",
+      "upVotes": "2",
+      "downVotes": "0"
+    },
+    {
+      "name": "RealTree Xtra Camo Valance",
+      "overallRating": {
+        "label": "Overall",
+        "rating": "5"
+      },
+      "productAttributes": [
+        {
+          "label": "Value",
+          "rating": "5"
+        },
+        {
+          "label": "Meets Expectations",
+          "rating": "5"
+        }
+      ],
+      "reviewer": "Pugstermeister",
+      "reviewText": "Great quality material. Very few wrinkles out of package. Checked several retailers for this item and walmart was way below other retailer prices. My husband loved these in our travel trailer. Would purchase them again.",
+      "submissionTime": "2014-06-16T19:07:18",
+      "title": "Great quality material.",
+      "upVotes": "1",
+      "downVotes": "0"
+    },
+    {
+      "name": "RealTree Xtra Camo Valance",
+      "overallRating": {
+        "label": "Overall",
+        "rating": "5"
+      },
+      "productAttributes": [
+        {
+          "label": "Value",
+          "rating": "5"
+        },
+        {
+          "label": "Meets Expectations",
+          "rating": "5"
+        }
+      ],
+      "reviewer": "Melissa1971",
+      "reviewText": "I bought my son the matching comforter set (which he LOVES) and got this to match. It's made out of nice material and matches the comforter perfectly. I forgot to measure the window, my bad, and it's just a tad bit short in width. So I'm ordering a second one, so it can be fuller and stretch an inch past the window frame. I'm very happy with it's look, quality and price. My son is happy with it, too.",
+      "submissionTime": "2014-08-03T16:32:51",
+      "title": "Very nice valance at a good price",
+      "upVotes": "1",
+      "downVotes": "0"
+    },
+    {
+      "name": "RealTree Xtra Camo Valance",
+      "overallRating": {
+        "label": "Overall",
+        "rating": "4"
+      },
+      "reviewer": "Ann48",
+      "reviewText": "I used two valances in one shorter window and 2 panels and a valance in a larger window in my grandson's bedroom. They look great.",
+      "submissionTime": "2014-03-14T07:31:20",
+      "title": "Nice valance.",
+      "upVotes": "1",
+      "downVotes": "0"
+    }
+  ],
+  "reviewStatistics": {
+    "averageOverallRating": "4.43",
+    "overallRatingRange": "5",
+    "ratingDistributions": [
+      {
+        "count": "1",
+        "ratingValue": "1"
+      },
+      {
+        "count": "1",
+        "ratingValue": "2"
+      },
+      {
+        "count": "2",
+        "ratingValue": "3"
+      },
+      {
+        "count": "2",
+        "ratingValue": "4"
+      },
+      {
+        "count": "17",
+        "ratingValue": "5"
+      }
+    ],
+    "totalReviewCount": "23"
+  },
+  "availableOnline": true
+}

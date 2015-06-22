@@ -1,0 +1,74 @@
+{
+  "itemId": 22879674,
+  "name": "Better Homes and Gardens Geometric Tufted Nylon Rug, Brown",
+  "salePrice": 12.96,
+  "upc": "010892595591",
+  "categoryPath": "Home/Decor/Rugs/Area Rugs",
+  "brandName": "Better Homes and Gardens",
+  "productTrackingUrl": "http://linksynergy.walmart.com/fs-bin/click?id=|LSNID|&offerid=223073.7200&type=14&catid=8&subid=0&hid=7200&tmpid=1082&RD_PARM1=http%253A%252F%252Fwww.walmart.com%252Fip%252FBetter-Homes-and-Gardens-Geometric-Tufted-Nylon-Rug-Brown%252F22879674%253Faffp1%253Dl1dAKNLrNlFLqxAnUYUMtwzELl3x1lA0ev6C4H5U2XY%2526affilsrc%253Dapi",
+  "productUrl": "http://c.affil.walmart.com/t/api06?l=http%3A%2F%2Fwww.walmart.com%2Fip%2FBetter-Homes-and-Gardens-Geometric-Tufted-Nylon-Rug-Brown%2F22879674%3Faffp1%3Dl1dAKNLrNlFLqxAnUYUMtwzELl3x1lA0ev6C4H5U2XY%26affilsrc%3Dapi%26veh%3Daff%26wmlspartner%3Dreadonlyapi",
+  "categoryNode": "4044_133012_110892",
+  "reviews": [
+    {
+      "name": "Better Homes and Gardens Geometric Tufted Nylon Rug, Brown",
+      "overallRating": {
+        "label": "Overall",
+        "rating": "5"
+      },
+      "productAttributes": [
+        {
+          "label": "Value",
+          "rating": "5"
+        },
+        {
+          "label": "Meets Expectations",
+          "rating": "5"
+        }
+      ],
+      "reviewer": "MountainMudder",
+      "reviewText": "This is the exact same rug I had before. I love it for my kitchen. Bought another to switch out every two weeks.",
+      "submissionTime": "2014-06-21T07:49:43",
+      "title": "Awesome rug",
+      "upVotes": "0",
+      "downVotes": "0"
+    },
+    {
+      "name": "Better Homes and Gardens Geometric Tufted Nylon Rug, Brown",
+      "overallRating": {
+        "label": "Overall",
+        "rating": "5"
+      },
+      "reviewer": "Donna",
+      "reviewText": "Great rug, nice pattern.",
+      "submissionTime": "2015-01-26T10:12:52",
+      "title": "Geometric rug",
+      "upVotes": "0",
+      "downVotes": "0"
+    },
+    {
+      "name": "Better Homes and Gardens Geometric Tufted Nylon Rug, Brown",
+      "overallRating": {
+        "label": "Overall",
+        "rating": "5"
+      },
+      "reviewer": "BobbyDC7",
+      "reviewText": "What more can you say. They stay on the floor. They allow all walks of life (except teenagers) to wipe off the bottom of their dirty shoes. They are rubber backed to prevent slipping.",
+      "submissionTime": "2014-12-23T07:29:31",
+      "title": "They are rugs",
+      "upVotes": "0",
+      "downVotes": "0"
+    }
+  ],
+  "reviewStatistics": {
+    "averageOverallRating": "5.0",
+    "overallRatingRange": "5",
+    "ratingDistributions": [
+      {
+        "count": "3",
+        "ratingValue": "5"
+      }
+    ],
+    "totalReviewCount": "3"
+  },
+  "availableOnline": true
+}

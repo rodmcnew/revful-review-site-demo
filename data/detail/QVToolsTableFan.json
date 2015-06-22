@@ -1,0 +1,72 @@
+{
+  "itemId": 39889207,
+  "name": "QV Tools Table Fan",
+  "salePrice": 14.55,
+  "upc": "037229000108",
+  "categoryPath": "Home Improvement/Heating, Cooling, & Air Quality/Fans",
+  "brandName": "QV Tools",
+  "productTrackingUrl": "http://linksynergy.walmart.com/fs-bin/click?id=|LSNID|&offerid=223073.7200&type=14&catid=8&subid=0&hid=7200&tmpid=1082&RD_PARM1=http%253A%252F%252Fwww.walmart.com%252Fip%252FQV-Tools-Table-Fan%252F39889207%253Faffp1%253Dl1dAKNLrNlFLqxAnUYUMtwzELl3x1lA0ev6C4H5U2XY%2526affilsrc%253Dapi",
+  "productUrl": "http://c.affil.walmart.com/t/api06?l=http%3A%2F%2Fwww.walmart.com%2Fip%2FQV-Tools-Table-Fan%2F39889207%3Faffp1%3Dl1dAKNLrNlFLqxAnUYUMtwzELl3x1lA0ev6C4H5U2XY%26affilsrc%3Dapi%26veh%3Daff%26wmlspartner%3Dreadonlyapi",
+  "categoryNode": "1072864_133032_133118",
+  "reviews": [
+    {
+      "name": "QV Tools Table Fan",
+      "overallRating": {
+        "label": "Overall",
+        "rating": "1"
+      },
+      "reviewer": "8smith",
+      "reviewText": "Arrived broken, had to get refund",
+      "submissionTime": "2014-12-11T09:52:31",
+      "title": "Bladeless",
+      "upVotes": "3",
+      "downVotes": "3"
+    },
+    {
+      "name": "QV Tools Table Fan",
+      "overallRating": {
+        "label": "Overall",
+        "rating": "2"
+      },
+      "reviewer": "ErnestAF",
+      "reviewText": "This fan will work great for keeping a mouse cooled off.",
+      "submissionTime": "2015-04-12T07:38:06",
+      "title": "Teeny Weeny",
+      "upVotes": "1",
+      "downVotes": "0"
+    },
+    {
+      "name": "QV Tools Table Fan",
+      "overallRating": {
+        "label": "Overall",
+        "rating": "5"
+      },
+      "reviewer": "kchris00",
+      "reviewText": "Sturdy, inexpensive & does the trick. This little fan is just what I needed at my desk.",
+      "submissionTime": "2015-02-09T16:04:54",
+      "title": "Does the trick",
+      "upVotes": "1",
+      "downVotes": "0"
+    }
+  ],
+  "reviewStatistics": {
+    "averageOverallRating": "2.67",
+    "overallRatingRange": "5",
+    "ratingDistributions": [
+      {
+        "count": "1",
+        "ratingValue": "1"
+      },
+      {
+        "count": "1",
+        "ratingValue": "2"
+      },
+      {
+        "count": "1",
+        "ratingValue": "5"
+      }
+    ],
+    "totalReviewCount": "3"
+  },
+  "availableOnline": true
+}

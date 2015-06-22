@@ -1,0 +1,133 @@
+{
+  "itemId": 29070192,
+  "name": "Nature's Path GF HONEY ALMOND Granola",
+  "salePrice": 4.56,
+  "upc": "058449890379",
+  "categoryPath": "Food/OLD GROCERY SHELVES/Gluten-Free Foods",
+  "brandName": "Nature's Path",
+  "productTrackingUrl": "http://linksynergy.walmart.com/fs-bin/click?id=|LSNID|&offerid=223073.7200&type=14&catid=8&subid=0&hid=7200&tmpid=1082&RD_PARM1=http%253A%252F%252Fwww.walmart.com%252Fip%252FNature-s-Path-Organic-Gluten-Free-Selections-Honey-Almond-Granola-with-Chia-11-oz%252F29070192%253Faffp1%253Dl1dAKNLrNlFLqxAnUYUMtwzELl3x1lA0ev6C4H5U2XY%2526affilsrc%253Dapi",
+  "productUrl": "http://c.affil.walmart.com/t/api06?l=http%3A%2F%2Fwww.walmart.com%2Fip%2FNature-s-Path-Organic-Gluten-Free-Selections-Honey-Almond-Granola-with-Chia-11-oz%2F29070192%3Faffp1%3Dl1dAKNLrNlFLqxAnUYUMtwzELl3x1lA0ev6C4H5U2XY%26affilsrc%3Dapi%26veh%3Daff%26wmlspartner%3Dreadonlyapi",
+  "categoryNode": "976759",
+  "reviews": [
+    {
+      "name": "Nature's Path GF HONEY ALMOND Granola",
+      "overallRating": {
+        "label": "Overall",
+        "rating": "5"
+      },
+      "productAttributes": [
+        {
+          "label": "Value",
+          "rating": "5"
+        },
+        {
+          "label": "Meets Expectations",
+          "rating": "5"
+        },
+        {
+          "label": "Taste",
+          "rating": "5"
+        }
+      ],
+      "reviewer": "Glutenfreenut",
+      "reviewText": "Best Gluten Free cereal on the market. You sporadically have it in our store. Why can't this be stocked in store all the time?",
+      "submissionTime": "2014-06-24T17:15:29",
+      "title": "Excellent",
+      "upVotes": "2",
+      "downVotes": "0"
+    },
+    {
+      "name": "Nature's Path GF HONEY ALMOND Granola",
+      "overallRating": {
+        "label": "Overall",
+        "rating": "5"
+      },
+      "productAttributes": [
+        {
+          "label": "Value",
+          "rating": "2"
+        },
+        {
+          "label": "Meets Expectations",
+          "rating": "4"
+        },
+        {
+          "label": "Taste",
+          "rating": "5"
+        }
+      ],
+      "reviewer": "LoveGFHoneyAlmond",
+      "reviewText": "This is my favorite granola. Not too sweet but still very tasty",
+      "submissionTime": "2014-07-05T17:09:30",
+      "title": "Delicious",
+      "upVotes": "0",
+      "downVotes": "0"
+    },
+    {
+      "name": "Nature's Path GF HONEY ALMOND Granola",
+      "overallRating": {
+        "label": "Overall",
+        "rating": "5"
+      },
+      "productAttributes": [
+        {
+          "label": "Value",
+          "rating": "2"
+        },
+        {
+          "label": "Meets Expectations",
+          "rating": "5"
+        },
+        {
+          "label": "Taste",
+          "rating": "5"
+        }
+      ],
+      "reviewer": "MEGLovinAnimals",
+      "reviewText": "I think this is by fr the best granola I've ever eaten. It's all natural and delicious!!",
+      "submissionTime": "2014-08-17T14:05:05",
+      "title": "Very tasty",
+      "upVotes": "0",
+      "downVotes": "0"
+    },
+    {
+      "name": "Nature's Path GF HONEY ALMOND Granola",
+      "overallRating": {
+        "label": "Overall",
+        "rating": "5"
+      },
+      "productAttributes": [
+        {
+          "label": "Value",
+          "rating": "4"
+        },
+        {
+          "label": "Meets Expectations",
+          "rating": "5"
+        },
+        {
+          "label": "Taste",
+          "rating": "5"
+        }
+      ],
+      "reviewer": "Laughingdove12",
+      "reviewText": "I love this granola. Only wish it was a little cheaper",
+      "submissionTime": "2014-07-20T18:39:38",
+      "title": "Love this granola",
+      "upVotes": "0",
+      "downVotes": "0"
+    }
+  ],
+  "reviewStatistics": {
+    "averageOverallRating": "5.0",
+    "overallRatingRange": "5",
+    "ratingDistributions": [
+      {
+        "count": "4",
+        "ratingValue": "5"
+      }
+    ],
+    "totalReviewCount": "4"
+  },
+  "availableOnline": true
+}

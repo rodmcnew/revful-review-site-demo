@@ -1,0 +1,116 @@
+{
+  "itemId": 4215768,
+  "name": "Go Ask Alice",
+  "salePrice": 6,
+  "upc": "781416914631",
+  "categoryPath": "Books/Children's Books/People & Places/Social Science",
+  "productTrackingUrl": "http://linksynergy.walmart.com/fs-bin/click?id=|LSNID|&offerid=223073.7200&type=14&catid=8&subid=0&hid=7200&tmpid=1082&RD_PARM1=http%253A%252F%252Fwww.walmart.com%252Fip%252F4215768%253Faffp1%253Dl1dAKNLrNlFLqxAnUYUMtwzELl3x1lA0ev6C4H5U2XY%2526affilsrc%253Dapi",
+  "productUrl": "http://c.affil.walmart.com/t/api06?l=http%3A%2F%2Fwww.walmart.com%2Fip%2F4215768%3Faffp1%3Dl1dAKNLrNlFLqxAnUYUMtwzELl3x1lA0ev6C4H5U2XY%26affilsrc%3Dapi%26veh%3Daff%26wmlspartner%3Dreadonlyapi",
+  "categoryNode": "3920_582053_584182",
+  "reviews": [
+    {
+      "name": "Go Ask Alice",
+      "overallRating": {
+        "label": "Overall",
+        "rating": "5"
+      },
+      "productAttributes": [
+        {
+          "label": "Value",
+          "rating": "5"
+        },
+        {
+          "label": "Meets Expectations",
+          "rating": "5"
+        }
+      ],
+      "reviewer": "lzianork",
+      "reviewText": "I have read this book uncountable times. I absolutely love it. It's the pages of a teenage girls diary who falls into drug addiction, her way out and an unexpected turn of events at the end.",
+      "submissionTime": "2011-04-14T10:38:15",
+      "title": "Favorite Book",
+      "upVotes": "6",
+      "downVotes": "1"
+    },
+    {
+      "name": "Go Ask Alice",
+      "overallRating": {
+        "label": "Overall",
+        "rating": "5"
+      },
+      "productAttributes": [
+        {
+          "label": "Value",
+          "rating": "5"
+        },
+        {
+          "label": "Meets Expectations",
+          "rating": "5"
+        }
+      ],
+      "reviewer": "ldtalley2005",
+      "reviewText": "This book was excellent. Every teen should read this book.",
+      "submissionTime": "2007-11-13T23:21:13",
+      "title": "Good book",
+      "upVotes": "6",
+      "downVotes": "3"
+    },
+    {
+      "name": "Go Ask Alice",
+      "overallRating": {
+        "label": "Overall",
+        "rating": "5"
+      },
+      "productAttributes": [
+        {
+          "label": "Value",
+          "rating": "4"
+        },
+        {
+          "label": "Meets Expectations",
+          "rating": "4"
+        }
+      ],
+      "reviewer": "zukes429",
+      "reviewText": "i thought after reading this book that it should be a requirement at all middle/high schools ... it was very real and the information it supported was so unbelievable ... my heart goes out to that girls family and every family who has been through something like this",
+      "submissionTime": "2009-02-01T15:40:26",
+      "title": "very real",
+      "upVotes": "5",
+      "downVotes": "4"
+    },
+    {
+      "name": "Go Ask Alice",
+      "overallRating": {
+        "label": "Overall",
+        "rating": "5"
+      },
+      "productAttributes": [
+        {
+          "label": "Value",
+          "rating": "5"
+        },
+        {
+          "label": "Meets Expectations",
+          "rating": "5"
+        }
+      ],
+      "reviewer": "GHOPER99",
+      "reviewText": "daughter loves it",
+      "submissionTime": "2011-10-11T04:23:56",
+      "title": "11 October 2011",
+      "upVotes": "1",
+      "downVotes": "2"
+    }
+  ],
+  "reviewStatistics": {
+    "averageOverallRating": "5.0",
+    "overallRatingRange": "5",
+    "ratingDistributions": [
+      {
+        "count": "5",
+        "ratingValue": "5"
+      }
+    ],
+    "totalReviewCount": "5"
+  },
+  "availableOnline": true
+}

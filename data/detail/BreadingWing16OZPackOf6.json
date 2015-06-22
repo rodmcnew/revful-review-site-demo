@@ -1,0 +1,88 @@
+{
+  "itemId": 19500296,
+  "name": "Breading Wing 16 OZ (Pack Of 6)",
+  "salePrice": 2,
+  "upc": "733286000050",
+  "categoryPath": "Food/Baking/Coatings & Batters",
+  "brandName": "Hooters",
+  "productTrackingUrl": "http://linksynergy.walmart.com/fs-bin/click?id=|LSNID|&offerid=223073.7200&type=14&catid=8&subid=0&hid=7200&tmpid=1082&RD_PARM1=http%253A%252F%252Fwww.walmart.com%252Fip%252FHooters-Wing-Breading-1-lb%252F19500296%253Faffp1%253Dl1dAKNLrNlFLqxAnUYUMtwzELl3x1lA0ev6C4H5U2XY%2526affilsrc%253Dapi",
+  "productUrl": "http://c.affil.walmart.com/t/api06?l=http%3A%2F%2Fwww.walmart.com%2Fip%2FHooters-Wing-Breading-1-lb%2F19500296%3Faffp1%3Dl1dAKNLrNlFLqxAnUYUMtwzELl3x1lA0ev6C4H5U2XY%26affilsrc%3Dapi%26veh%3Daff%26wmlspartner%3Dreadonlyapi",
+  "categoryNode": "976759_976780_1044090",
+  "reviews": [
+    {
+      "name": "Hooters Wing Breading, 1 lb",
+      "overallRating": {
+        "label": "Overall",
+        "rating": "5"
+      },
+      "productAttributes": [
+        {
+          "label": "Value",
+          "rating": "5"
+        },
+        {
+          "label": "Meets Expectations",
+          "rating": "5"
+        }
+      ],
+      "reviewer": "MSFarmer",
+      "reviewText": "I use this breading when making hot wings and fish, I normally add a bit more salt however.",
+      "submissionTime": "2013-05-13T18:29:15",
+      "title": "Very Good",
+      "upVotes": "2",
+      "downVotes": "2"
+    },
+    {
+      "name": "Hooters Wing Breading, 1 lb",
+      "overallRating": {
+        "label": "Overall",
+        "rating": "5"
+      },
+      "reviewer": "lwteazers",
+      "reviewText": "The only issue i had was it was supposed to arrive on a Thursday but never made it til Saturday!",
+      "submissionTime": "2014-01-25T03:24:18",
+      "title": "We love this product!",
+      "upVotes": "1",
+      "downVotes": "2"
+    },
+    {
+      "name": "Hooters Wing Breading, 1 lb",
+      "overallRating": {
+        "label": "Overall",
+        "rating": "5"
+      },
+      "productAttributes": [
+        {
+          "label": "Value",
+          "rating": "5"
+        },
+        {
+          "label": "Meets Expectations",
+          "rating": "5"
+        },
+        {
+          "label": "Taste",
+          "rating": "5"
+        }
+      ],
+      "reviewer": "satin12",
+      "reviewText": "the breading stayed in the meat without coming off...........great taste.............easy and quick to use",
+      "submissionTime": "2014-10-20T09:07:47",
+      "title": "great",
+      "upVotes": "0",
+      "downVotes": "0"
+    }
+  ],
+  "reviewStatistics": {
+    "averageOverallRating": "5.0",
+    "overallRatingRange": "5",
+    "ratingDistributions": [
+      {
+        "count": "3",
+        "ratingValue": "5"
+      }
+    ],
+    "totalReviewCount": "3"
+  },
+  "availableOnline": true
+}

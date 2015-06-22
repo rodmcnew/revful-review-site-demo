@@ -1,0 +1,64 @@
+{
+  "itemId": 22356544,
+  "name": "AMD PW4486B AMD FX-8350  FX-Series 8-Core Black Edition",
+  "salePrice": 165.93,
+  "upc": "730143302517",
+  "categoryPath": "Electronics/Computers/Computer Components/Processors (CPU)",
+  "brandName": "AMD",
+  "productTrackingUrl": "http://linksynergy.walmart.com/fs-bin/click?id=|LSNID|&offerid=223073.7200&type=14&catid=8&subid=0&hid=7200&tmpid=1082&RD_PARM1=http%253A%252F%252Fwww.walmart.com%252Fip%252FAMD-FX-8350-4-GHz-Processor%252F22356544%253Faffp1%253Dl1dAKNLrNlFLqxAnUYUMtwzELl3x1lA0ev6C4H5U2XY%2526affilsrc%253Dapi",
+  "productUrl": "http://c.affil.walmart.com/t/api06?l=http%3A%2F%2Fwww.walmart.com%2Fip%2FAMD-FX-8350-4-GHz-Processor%2F22356544%3Faffp1%3Dl1dAKNLrNlFLqxAnUYUMtwzELl3x1lA0ev6C4H5U2XY%26affilsrc%3Dapi%26veh%3Daff%26wmlspartner%3Dreadonlyapi",
+  "categoryNode": "3944_3951_1073804",
+  "reviews": [
+    {
+      "name": "AMD FX-8350 4 GHz Processor",
+      "overallRating": {
+        "label": "Overall",
+        "rating": "5"
+      },
+      "reviewer": "Easyrider101",
+      "reviewText": "I bought this processor to replace a Phenom II processor. I ordered it through site to store and it arrived before it's scheduled time, sweet. This is one powerhouse processor, I put it though it's paces and not even a slowdown did I experience with heavy multitasking. I do a lot of computer graphics and this baby has all the power I need and more to spare. I requested a price match, and Walmart delivered, matching a price from a different site. This processor is very compatible with GNU/Linux. I wouldn't hesitate to recommend this processor to family and friends.",
+      "submissionTime": "2015-02-20T21:02:55",
+      "title": "Processor Powerhouse",
+      "upVotes": "3",
+      "downVotes": "0"
+    },
+    {
+      "name": "AMD FX-8350 4 GHz Processor",
+      "overallRating": {
+        "label": "Overall",
+        "rating": "5"
+      },
+      "reviewer": "bnla",
+      "reviewText": "I do believe this processor will hold its ground for some time to come, even though the next generation of APU, CPU and GPU's are coming soon from AMD which will feature an even more powerful line of hardware while maintaining and improving on power efficiency.\n\nI upgraded from a AMD 6300 6 core to this cpu which has given me something of a slight performance increase although I expect there wont be a major performance difference between the 2 cpu's that I am comparing here with Mantle and the new DirectX 12 coming soon which enables the hardware to work at a more efficient level especially when playing games.\n\nIf you are looking for a good cpu in which to game or edit videos or any intensive application then this maybe the right processor for you.",
+      "submissionTime": "2015-05-07T11:00:50",
+      "title": "Great 8 core cpu",
+      "upVotes": "0",
+      "downVotes": "0"
+    },
+    {
+      "name": "AMD FX-8350 4 GHz Processor",
+      "overallRating": {
+        "label": "Overall",
+        "rating": "5"
+      },
+      "reviewer": "Sandman",
+      "reviewText": "My machine is smoking! This processor runs all of my games with everything turned all the way up on a three monitor system without even a hiccup! No need to waste money on an expensive Intel processor for the same performance.",
+      "submissionTime": "2015-05-16T09:27:21",
+      "title": "awesome processor",
+      "upVotes": "0",
+      "downVotes": "0"
+    }
+  ],
+  "reviewStatistics": {
+    "averageOverallRating": "5.0",
+    "overallRatingRange": "5",
+    "ratingDistributions": [
+      {
+        "count": "3",
+        "ratingValue": "5"
+      }
+    ],
+    "totalReviewCount": "3"
+  },
+  "availableOnline": true
+}

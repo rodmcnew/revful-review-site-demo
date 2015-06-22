@@ -1,0 +1,110 @@
+{
+  "itemId": 17340461,
+  "name": "Nu-Salt Substitute Salt, 3 oz (Pack of 12)",
+  "salePrice": 15.79,
+  "upc": "030684887840",
+  "categoryPath": "Food/Condiments, Sauces & Spices/Salt, Spices & Seasoning",
+  "brandName": "Nu-Salt",
+  "productTrackingUrl": "http://linksynergy.walmart.com/fs-bin/click?id=|LSNID|&offerid=223073.7200&type=14&catid=8&subid=0&hid=7200&tmpid=1082&RD_PARM1=http%253A%252F%252Fwww.walmart.com%252Fip%252FNu-Salt-Substitute-Salt-3-oz-Pack-of-12%252F17340461%253Faffp1%253Dl1dAKNLrNlFLqxAnUYUMtwzELl3x1lA0ev6C4H5U2XY%2526affilsrc%253Dapi",
+  "productUrl": "http://c.affil.walmart.com/t/api06?l=http%3A%2F%2Fwww.walmart.com%2Fip%2FNu-Salt-Substitute-Salt-3-oz-Pack-of-12%2F17340461%3Faffp1%3Dl1dAKNLrNlFLqxAnUYUMtwzELl3x1lA0ev6C4H5U2XY%26affilsrc%3Dapi%26veh%3Daff%26wmlspartner%3Dreadonlyapi",
+  "categoryNode": "976759_976786_1007682",
+  "reviews": [
+    {
+      "name": "Nu-Salt Substitute Salt, 3 oz (Pack of 12)",
+      "overallRating": {
+        "label": "Overall",
+        "rating": "4"
+      },
+      "productAttributes": [
+        {
+          "label": "Value",
+          "rating": "4"
+        },
+        {
+          "label": "Meets Expectations",
+          "rating": "4"
+        },
+        {
+          "label": "Taste",
+          "rating": "5"
+        }
+      ],
+      "reviewer": "Patagonico",
+      "reviewText": "Bought this salt for my aunt who needs to cut out sodium from her diet. It also relieved her muscle cramps because of low potassium levels. If you try a little on your finger it tastes horrible, but on food you can't tell the difference from regular salt.",
+      "submissionTime": "2014-09-04T17:16:33",
+      "title": "Excellent substitute if you're low on potassium",
+      "upVotes": "1",
+      "downVotes": "0"
+    },
+    {
+      "name": "Nu-Salt Substitute Salt, 3 oz (Pack of 12)",
+      "overallRating": {
+        "label": "Overall",
+        "rating": "5"
+      },
+      "productAttributes": [
+        {
+          "label": "Value",
+          "rating": "5"
+        },
+        {
+          "label": "Meets Expectations",
+          "rating": "5"
+        },
+        {
+          "label": "Taste",
+          "rating": "5"
+        }
+      ],
+      "reviewer": "HAPPYSOL",
+      "reviewText": "I had high potassium and heart issues so this product aides in reducing sodium and potassium.",
+      "submissionTime": "2014-09-20T18:18:32",
+      "title": "Good Product",
+      "upVotes": "0",
+      "downVotes": "3"
+    },
+    {
+      "name": "Nu-Salt Substitute Salt, 3 oz (Pack of 12)",
+      "overallRating": {
+        "label": "Overall",
+        "rating": "5"
+      },
+      "productAttributes": [
+        {
+          "label": "Value",
+          "rating": "5"
+        },
+        {
+          "label": "Meets Expectations",
+          "rating": "5"
+        },
+        {
+          "label": "Taste",
+          "rating": "5"
+        }
+      ],
+      "reviewer": "slimcookie",
+      "reviewText": "Since finding about my blood pressure I had to change my salt intake. It gives my foods a nice taste.",
+      "submissionTime": "2014-07-22T17:12:28",
+      "title": "Nu-Salt",
+      "upVotes": "0",
+      "downVotes": "0"
+    }
+  ],
+  "reviewStatistics": {
+    "averageOverallRating": "4.75",
+    "overallRatingRange": "5",
+    "ratingDistributions": [
+      {
+        "count": "1",
+        "ratingValue": "4"
+      },
+      {
+        "count": "3",
+        "ratingValue": "5"
+      }
+    ],
+    "totalReviewCount": "4"
+  },
+  "availableOnline": true
+}

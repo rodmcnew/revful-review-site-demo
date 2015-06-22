@@ -1,0 +1,63 @@
+{
+  "itemId": 43198094,
+  "name": "Dickies Men's Performance Tees",
+  "salePrice": 9.94,
+  "upc": "029311530129",
+  "categoryPath": "Clothing/Men/Men's Tops & T-Shirts/Men's T-Shirts & Tank Tops",
+  "brandName": "Dickies",
+  "productTrackingUrl": "http://linksynergy.walmart.com/fs-bin/click?id=|LSNID|&offerid=223073.7200&type=14&catid=8&subid=0&hid=7200&tmpid=1082&RD_PARM1=http%253A%252F%252Fwww.walmart.com%252Fip%252FDickies-Men-s-Performance-Tees%252F43198094%253Faffp1%253Dl1dAKNLrNlFLqxAnUYUMtwzELl3x1lA0ev6C4H5U2XY%2526affilsrc%253Dapi",
+  "productUrl": "http://c.affil.walmart.com/t/api06?l=http%3A%2F%2Fwww.walmart.com%2Fip%2FDickies-Men-s-Performance-Tees%2F43198094%3Faffp1%3Dl1dAKNLrNlFLqxAnUYUMtwzELl3x1lA0ev6C4H5U2XY%26affilsrc%3Dapi%26veh%3Daff%26wmlspartner%3Dreadonlyapi",
+  "categoryNode": "5438_133197_1228779",
+  "reviews": [
+    {
+      "name": "Dickies Men's Performance Tees",
+      "overallRating": {
+        "label": "Overall",
+        "rating": "5"
+      },
+      "reviewer": "Rahoe",
+      "reviewText": "picked up a couple of these at my local Walmart yesterday. Can't beat the price for a performance t-shirt! great weight - not too heavy - not too light. nice pocket detail with men holder. mine had the logo patch on the pocket - not the sleeve. SPF 20 and helps to wick moisture/sweat off your body. Fit on this is awesome as it's not too tight in the body or in the sleeves. fits great! i'll be buying the rest of the colors i like in my size real soon!",
+      "submissionTime": "2015-04-22T06:34:43",
+      "title": "Great Weight Performance T-Shirt",
+      "upVotes": "2",
+      "downVotes": "0"
+    },
+    {
+      "name": "Dickies Men's Performance Tees",
+      "overallRating": {
+        "label": "Overall",
+        "rating": "5"
+      },
+      "reviewText": "Best work T available!",
+      "submissionTime": "2015-02-28T05:01:34",
+      "title": "Sweatin in style",
+      "upVotes": "1",
+      "downVotes": "0"
+    },
+    {
+      "name": "Dickies Men's Performance Tees",
+      "overallRating": {
+        "label": "Overall",
+        "rating": "5"
+      },
+      "reviewer": "Skip",
+      "reviewText": "These are the best tees that I have found with a fabric similar to Duo-Dri. Full length tailoring and well sewn hems and seams. You can't beat the price. I have orderfed and reordered....they are great.",
+      "submissionTime": "2015-05-07T09:46:07",
+      "title": "Great length, and constructuion",
+      "upVotes": "0",
+      "downVotes": "0"
+    }
+  ],
+  "reviewStatistics": {
+    "averageOverallRating": "5.0",
+    "overallRatingRange": "5",
+    "ratingDistributions": [
+      {
+        "count": "3",
+        "ratingValue": "5"
+      }
+    ],
+    "totalReviewCount": "3"
+  },
+  "availableOnline": true
+}

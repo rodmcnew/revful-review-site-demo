@@ -1,0 +1,146 @@
+{
+  "itemId": 8725133,
+  "name": "IOgear GCS42UW6 2-Port USB KVM Switch",
+  "salePrice": 17.95,
+  "upc": "881317010605",
+  "categoryPath": "Electronics/Computers/Computer Accessories/Cables & Connectors",
+  "productTrackingUrl": "http://linksynergy.walmart.com/fs-bin/click?id=|LSNID|&offerid=223073.7200&type=14&catid=8&subid=0&hid=7200&tmpid=1082&RD_PARM1=http%253A%252F%252Fwww.walmart.com%252Fip%252FIOGear-2-Port-Compact-USB-VGA-KVM-with-Built-in-Cable-design%252F8725133%253Faffp1%253Dl1dAKNLrNlFLqxAnUYUMtwzELl3x1lA0ev6C4H5U2XY%2526affilsrc%253Dapi",
+  "productUrl": "http://c.affil.walmart.com/t/api06?l=http%3A%2F%2Fwww.walmart.com%2Fip%2FIOGear-2-Port-Compact-USB-VGA-KVM-with-Built-in-Cable-design%2F8725133%3Faffp1%3Dl1dAKNLrNlFLqxAnUYUMtwzELl3x1lA0ev6C4H5U2XY%26affilsrc%3Dapi%26veh%3Daff%26wmlspartner%3Dreadonlyapi",
+  "categoryNode": "3944_3951_132959",
+  "reviews": [
+    {
+      "name": "IOGear 2-Port Compact USB VGA KVM with Built-in Cable design",
+      "overallRating": {
+        "label": "Overall",
+        "rating": "1"
+      },
+      "productAttributes": [
+        {
+          "label": "Value",
+          "rating": "1"
+        },
+        {
+          "label": "Meets Expectations",
+          "rating": "1"
+        }
+      ],
+      "reviewer": "JR68661",
+      "reviewText": "Item is extremely cheap, and of course that should probly be expected for the price. Anyhow it takes more seconds than the normal to switch to the other system and worst of all it conflicts with any USB printers you may have connected to your main computer #1. In my case I have a HP Laserjet 1020 printer and it always crashed with this KVM adapter. The only way I can get the printer to work is by switching to machine #2 and then back. THIS is extremely anoying!",
+      "submissionTime": "2008-05-22T11:36:06",
+      "title": "Terrible!",
+      "upVotes": "2",
+      "downVotes": "0"
+    },
+    {
+      "name": "IOGear 2-Port Compact USB VGA KVM with Built-in Cable design",
+      "overallRating": {
+        "label": "Overall",
+        "rating": "5"
+      },
+      "productAttributes": [
+        {
+          "label": "Value",
+          "rating": "5"
+        },
+        {
+          "label": "Meets Expectations",
+          "rating": "5"
+        }
+      ],
+      "reviewer": "MAXIMUStheFIRST",
+      "reviewText": "In my store I have to have 2 computers, a server and a surveillance computer. This product works very well and saves a lot of space by controlling both computers with one keyboard and mouse. It is also the best value for your money, other similar products cost at least double.",
+      "submissionTime": "2009-06-30T11:10:05",
+      "title": "Great value",
+      "upVotes": "1",
+      "downVotes": "0"
+    },
+    {
+      "name": "IOGear 2-Port Compact USB VGA KVM with Built-in Cable design",
+      "overallRating": {
+        "label": "Overall",
+        "rating": "3"
+      },
+      "productAttributes": [
+        {
+          "label": "Value",
+          "rating": "5"
+        },
+        {
+          "label": "Meets Expectations",
+          "rating": "3"
+        }
+      ],
+      "reviewer": "Deth13",
+      "reviewText": "After installing it my older computer doesn't recoignize and new USB devices I plug in now. I tried reinstalling windows that didn't make any difference. It seams to be a power issue since this KVM doesn't have a external power supply.",
+      "submissionTime": "2008-04-17T11:40:18",
+      "title": "Works ok if you don't use many USB devices.",
+      "upVotes": "1",
+      "downVotes": "0"
+    },
+    {
+      "name": "IOGear 2-Port Compact USB VGA KVM with Built-in Cable design",
+      "overallRating": {
+        "label": "Overall",
+        "rating": "5"
+      },
+      "productAttributes": [
+        {
+          "label": "Value",
+          "rating": "4"
+        },
+        {
+          "label": "Meets Expectations",
+          "rating": "5"
+        }
+      ],
+      "reviewer": "DMTaylor",
+      "reviewText": "Easy hookup, no software to install. I like the button to switch between PC's as opposed to \"Hot Keys\".",
+      "submissionTime": "2008-07-05T18:47:40",
+      "title": "05 July 2008",
+      "upVotes": "1",
+      "downVotes": "0"
+    },
+    {
+      "name": "IOGear 2-Port Compact USB VGA KVM with Built-in Cable design",
+      "overallRating": {
+        "label": "Overall",
+        "rating": "5"
+      },
+      "productAttributes": [
+        {
+          "label": "Value",
+          "rating": "5"
+        },
+        {
+          "label": "Meets Expectations",
+          "rating": "5"
+        }
+      ],
+      "reviewText": "Purchased unit to be able to switch computer and laptop to 1 monitor, worked great. This purchase was my best yet, it worked with no problem. If your looking for a product to buy look @ Iogear there items work just as they say they would.",
+      "submissionTime": "2010-05-29T15:23:04",
+      "title": "Iogear great co.",
+      "upVotes": "1",
+      "downVotes": "0"
+    }
+  ],
+  "reviewStatistics": {
+    "averageOverallRating": "4.14",
+    "overallRatingRange": "5",
+    "ratingDistributions": [
+      {
+        "count": "1",
+        "ratingValue": "1"
+      },
+      {
+        "count": "1",
+        "ratingValue": "3"
+      },
+      {
+        "count": "5",
+        "ratingValue": "5"
+      }
+    ],
+    "totalReviewCount": "7"
+  },
+  "availableOnline": true
+}

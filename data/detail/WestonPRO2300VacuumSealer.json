@@ -1,0 +1,74 @@
+{
+  "itemId": 16420818,
+  "name": "Weston PRO 2300 Vacuum Sealer",
+  "salePrice": 379.94,
+  "upc": "834742005913",
+  "categoryPath": "Home/Kitchen & Dining/Kitchen Storage & Organization/Food Savers & Accessories",
+  "brandName": "Weston",
+  "productTrackingUrl": "http://linksynergy.walmart.com/fs-bin/click?id=|LSNID|&offerid=223073.7200&type=14&catid=8&subid=0&hid=7200&tmpid=1082&RD_PARM1=http%253A%252F%252Fwww.walmart.com%252Fip%252FWeston-Vacuum-Sealer%252F16420818%253Faffp1%253Dl1dAKNLrNlFLqxAnUYUMtwzELl3x1lA0ev6C4H5U2XY%2526affilsrc%253Dapi",
+  "productUrl": "http://c.affil.walmart.com/t/api06?l=http%3A%2F%2Fwww.walmart.com%2Fip%2FWeston-Vacuum-Sealer%2F16420818%3Faffp1%3Dl1dAKNLrNlFLqxAnUYUMtwzELl3x1lA0ev6C4H5U2XY%26affilsrc%3Dapi%26veh%3Daff%26wmlspartner%3Dreadonlyapi",
+  "categoryNode": "4044_623679_1032619",
+  "reviews": [
+    {
+      "name": "Weston PRO-2300 Vacuum Sealer",
+      "overallRating": {
+        "label": "Overall",
+        "rating": "5"
+      },
+      "reviewer": "fwebb",
+      "reviewText": "Best vacuum sealer I've ever owned! Does a great job. Very happy with it..",
+      "submissionTime": "2014-12-08T19:05:12",
+      "title": "Best!",
+      "upVotes": "2",
+      "downVotes": "0"
+    },
+    {
+      "name": "Weston PRO-2300 Vacuum Sealer",
+      "overallRating": {
+        "label": "Overall",
+        "rating": "5"
+      },
+      "productAttributes": [
+        {
+          "label": "Value",
+          "rating": "5"
+        },
+        {
+          "label": "Meets Expectations",
+          "rating": "5"
+        }
+      ],
+      "reviewer": "AnnieRob",
+      "reviewText": "What a machine!! I think it will handle any sealing job we send to it.",
+      "submissionTime": "2014-07-23T16:37:10",
+      "title": "Love it, love it, love it!!",
+      "upVotes": "3",
+      "downVotes": "4"
+    },
+    {
+      "name": "Weston PRO-2300 Vacuum Sealer",
+      "overallRating": {
+        "label": "Overall",
+        "rating": "5"
+      },
+      "reviewer": "Dave",
+      "reviewText": "Worth every penny.",
+      "submissionTime": "2015-02-20T14:02:16",
+      "title": "Finally a first quality machine",
+      "upVotes": "0",
+      "downVotes": "0"
+    }
+  ],
+  "reviewStatistics": {
+    "averageOverallRating": "5.0",
+    "overallRatingRange": "5",
+    "ratingDistributions": [
+      {
+        "count": "3",
+        "ratingValue": "5"
+      }
+    ],
+    "totalReviewCount": "3"
+  },
+  "availableOnline": true
+}

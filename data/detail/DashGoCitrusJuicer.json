@@ -1,0 +1,68 @@
+{
+  "itemId": 37017681,
+  "name": "Dash Go Citrus Juicer",
+  "salePrice": 19.99,
+  "upc": "852079003907",
+  "categoryPath": "Home/Appliances/Kitchen Appliances/Blenders & Juicers",
+  "brandName": "Generic",
+  "productTrackingUrl": "http://linksynergy.walmart.com/fs-bin/click?id=|LSNID|&offerid=223073.7200&type=14&catid=8&subid=0&hid=7200&tmpid=1082&RD_PARM1=http%253A%252F%252Fwww.walmart.com%252Fip%252FDash-Go-Citrus-Juicer%252F37017681%253Faffp1%253Dl1dAKNLrNlFLqxAnUYUMtwzELl3x1lA0ev6C4H5U2XY%2526affilsrc%253Dapi",
+  "productUrl": "http://c.affil.walmart.com/t/api06?l=http%3A%2F%2Fwww.walmart.com%2Fip%2FDash-Go-Citrus-Juicer%2F37017681%3Faffp1%3Dl1dAKNLrNlFLqxAnUYUMtwzELl3x1lA0ev6C4H5U2XY%26affilsrc%3Dapi%26veh%3Daff%26wmlspartner%3Dreadonlyapi",
+  "categoryNode": "4044_90548_90546",
+  "reviews": [
+    {
+      "name": "Dash Go Citrus Juicer",
+      "overallRating": {
+        "label": "Overall",
+        "rating": "5"
+      },
+      "reviewer": "Anne",
+      "reviewText": "I needed a small juicer for limes and oranges. There are two different heads and an adjustment for the amount of pulp straining through. It's easy to use and easy to clean up. And it is not as noisy as others I have had.",
+      "submissionTime": "2015-02-11T05:52:13",
+      "title": "Great juicer",
+      "upVotes": "0",
+      "downVotes": "0"
+    },
+    {
+      "name": "Dash Go Citrus Juicer",
+      "overallRating": {
+        "label": "Overall",
+        "rating": "4"
+      },
+      "reviewer": "JennaKay",
+      "reviewText": "Easy to use and easy to clean",
+      "submissionTime": "2015-02-07T07:20:01",
+      "title": "Great juicer",
+      "upVotes": "0",
+      "downVotes": "0"
+    },
+    {
+      "name": "Dash Go Citrus Juicer",
+      "overallRating": {
+        "label": "Overall",
+        "rating": "5"
+      },
+      "reviewer": "HelloMB",
+      "reviewText": "I am very happy! This was a great product! I recommend it.",
+      "submissionTime": "2015-05-04T10:11:03",
+      "title": "Great features!",
+      "upVotes": "0",
+      "downVotes": "0"
+    }
+  ],
+  "reviewStatistics": {
+    "averageOverallRating": "4.67",
+    "overallRatingRange": "5",
+    "ratingDistributions": [
+      {
+        "count": "1",
+        "ratingValue": "4"
+      },
+      {
+        "count": "2",
+        "ratingValue": "5"
+      }
+    ],
+    "totalReviewCount": "3"
+  },
+  "availableOnline": true
+}

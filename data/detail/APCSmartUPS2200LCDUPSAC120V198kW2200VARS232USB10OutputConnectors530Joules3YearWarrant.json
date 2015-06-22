@@ -1,0 +1,77 @@
+{
+  "itemId": 33894563,
+  "name": "APC Smart-UPS 2200 LCD - UPS - AC 120 V, 1.98 kW, 2200 VA, RS-232, USB, 10 Output Connectors, 530 Joules, 3 Year Warrant",
+  "salePrice": 799.99,
+  "upc": "68NMUKsY0336",
+  "categoryPath": "Electronics/Computers/Computer Accessories/Surge Protectors",
+  "brandName": "APC",
+  "productTrackingUrl": "http://linksynergy.walmart.com/fs-bin/click?id=|LSNID|&offerid=223073.7200&type=14&catid=8&subid=0&hid=7200&tmpid=1082&RD_PARM1=http%253A%252F%252Fwww.walmart.com%252Fip%252FAPC-Smart-UPS-2200-LCD-UPS-AC-120-V-1.98-kW-2200-VA-RS-232-USB-10-o%252F33894563%253Faffp1%253Dl1dAKNLrNlFLqxAnUYUMtwzELl3x1lA0ev6C4H5U2XY%2526affilsrc%253Dapi",
+  "productUrl": "http://c.affil.walmart.com/t/api06?l=http%3A%2F%2Fwww.walmart.com%2Fip%2FAPC-Smart-UPS-2200-LCD-UPS-AC-120-V-1.98-kW-2200-VA-RS-232-USB-10-o%2F33894563%3Faffp1%3Dl1dAKNLrNlFLqxAnUYUMtwzELl3x1lA0ev6C4H5U2XY%26affilsrc%3Dapi%26veh%3Daff%26wmlspartner%3Dreadonlyapi",
+  "categoryNode": "3944_3951_132959",
+  "reviews": [
+    {
+      "name": "APC Smart-UPS 2200 LCD - UPS - AC 120 V, 1.98 kW, 2200 VA, RS-232, USB, 10 Output Connectors, 530 Joules, 3 Year Warrant",
+      "overallRating": {
+        "label": "Overall",
+        "rating": "5"
+      },
+      "reviewer": "skypilot",
+      "reviewText": "Nice sized unit. Supports a couple of 2U servers and some network units while still having some backup runtime on the batteries. Unit gets beaten on daily by auto repair shop\n\nAny bigger and you might need special wiring.\n\nGood for a larger outfit that has greater IT needs, without going crazy.",
+      "submissionTime": "2011-02-06T08:30:23",
+      "title": "smt2200",
+      "upVotes": "0",
+      "downVotes": "0"
+    },
+    {
+      "name": "APC Smart-UPS 2200 LCD - UPS - AC 120 V, 1.98 kW, 2200 VA, RS-232, USB, 10 Output Connectors, 530 Joules, 3 Year Warrant",
+      "overallRating": {
+        "label": "Overall",
+        "rating": "5"
+      },
+      "reviewer": "DaveN",
+      "reviewText": "This is my second one of these - they work as expected. With two identical units both having network management cards, I have configured them as redundant - one power supply from the servers goes to one SMT2200, and the other goes to the other one. PowerChute Network Shutdown will then delay shutting down the servers until it gets shutdown requests from both UPSs. This is only a few seconds of configuration to get a great redundant system - but NOTE that both UPSs need to be the same model, and the network management cards need the same firmware. This feature alone makes it worth choosing a Smart-UPS model that supports it.",
+      "submissionTime": "2012-08-20T09:34:37",
+      "title": "Good quality UPS",
+      "upVotes": "0",
+      "downVotes": "0"
+    },
+    {
+      "name": "APC Smart-UPS 2200 LCD - UPS - AC 120 V, 1.98 kW, 2200 VA, RS-232, USB, 10 Output Connectors, 530 Joules, 3 Year Warrant",
+      "overallRating": {
+        "label": "Overall",
+        "rating": "5"
+      },
+      "reviewer": "hwcoop65",
+      "reviewText": "Extremely bulky and heavy. Had to remove the 2 large batteries before could lift it. It does the job of protecting the computer very well. It has plenty of excess capacity and will accept additional plug-ins. It is well worth the money.",
+      "submissionTime": "2011-05-05T17:29:50",
+      "title": "Well worth the money",
+      "upVotes": "0",
+      "downVotes": "0"
+    },
+    {
+      "name": "APC Smart-UPS 2200 LCD - UPS - AC 120 V, 1.98 kW, 2200 VA, RS-232, USB, 10 Output Connectors, 530 Joules, 3 Year Warrant",
+      "overallRating": {
+        "label": "Overall",
+        "rating": "5"
+      },
+      "reviewer": "rer0609",
+      "reviewText": "I've been working for the government well over 20 years.\n\nThis was the fastest procurement I have been a part of in that time.",
+      "submissionTime": "2012-10-19T06:46:31",
+      "title": "Fast!",
+      "upVotes": "0",
+      "downVotes": "0"
+    }
+  ],
+  "reviewStatistics": {
+    "averageOverallRating": "5.0",
+    "overallRatingRange": "5",
+    "ratingDistributions": [
+      {
+        "count": "5",
+        "ratingValue": "5"
+      }
+    ],
+    "totalReviewCount": "5"
+  },
+  "availableOnline": true
+}

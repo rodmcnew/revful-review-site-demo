@@ -1,0 +1,104 @@
+{
+  "itemId": 24356788,
+  "name": "Juiceman All-in-One Juice Extractor",
+  "salePrice": 70.49,
+  "upc": "027043993113",
+  "categoryPath": "Home/Appliances/Kitchen Appliances/Blenders & Juicers",
+  "brandName": "Applica",
+  "productTrackingUrl": "http://linksynergy.walmart.com/fs-bin/click?id=|LSNID|&offerid=223073.7200&type=14&catid=8&subid=0&hid=7200&tmpid=1082&RD_PARM1=http%253A%252F%252Fwww.walmart.com%252Fip%252FJuiceman-All-in-One-Juice-Extractor%252F24356788%253Faffp1%253Dl1dAKNLrNlFLqxAnUYUMtwzELl3x1lA0ev6C4H5U2XY%2526affilsrc%253Dapi",
+  "productUrl": "http://c.affil.walmart.com/t/api06?l=http%3A%2F%2Fwww.walmart.com%2Fip%2FJuiceman-All-in-One-Juice-Extractor%2F24356788%3Faffp1%3Dl1dAKNLrNlFLqxAnUYUMtwzELl3x1lA0ev6C4H5U2XY%26affilsrc%3Dapi%26veh%3Daff%26wmlspartner%3Dreadonlyapi",
+  "categoryNode": "4044_90548_90546",
+  "reviews": [
+    {
+      "name": "Juiceman All-in-One Juice Extractor",
+      "overallRating": {
+        "label": "Overall",
+        "rating": "4"
+      },
+      "reviewer": "SKYLINE35W",
+      "reviewText": "I AM 72 YEARS OLD AND I'VE BEEN USING THE JUICEMAN OVER 30 YEARS. THE PRODUCT IS LIGHTER, EASY TO CLEAN WITH POWERFUL MOTOR. THE JUICING RESULTS ARE GREAT. I CAN SEE WHY CONSUMER REPORTS RECOMMENDED IT.",
+      "submissionTime": "2015-01-12T04:52:04",
+      "title": "HAPPY WITH THE PRODUCT",
+      "upVotes": "12",
+      "downVotes": "0"
+    },
+    {
+      "name": "Juiceman All-in-One Juice Extractor",
+      "overallRating": {
+        "label": "Overall",
+        "rating": "5"
+      },
+      "productAttributes": [
+        {
+          "label": "Value",
+          "rating": "5"
+        },
+        {
+          "label": "Meets Expectations",
+          "rating": "5"
+        }
+      ],
+      "reviewer": "BriyanBey",
+      "reviewText": "Fast shipment! Good service! Product arrived in excellent shape. I'm satisfied!",
+      "submissionTime": "2014-04-12T09:25:52",
+      "title": "Useful! Great quality!",
+      "upVotes": "11",
+      "downVotes": "3"
+    },
+    {
+      "name": "Juiceman All-in-One Juice Extractor",
+      "overallRating": {
+        "label": "Overall",
+        "rating": "5"
+      },
+      "reviewer": "Ginevra6",
+      "reviewText": "I was looking for a juice extractor that is easy to operate and clean (user friendly), compact but powerful as I have very limited counter space. The Juiceman fits the bill. I am juicing away. I am quite happy with this product and will recommend it to family and friends.",
+      "submissionTime": "2014-11-09T15:00:38",
+      "title": "Perfect for me",
+      "upVotes": "8",
+      "downVotes": "0"
+    },
+    {
+      "name": "Juiceman All-in-One Juice Extractor",
+      "overallRating": {
+        "label": "Overall",
+        "rating": "5"
+      },
+      "reviewer": "Kleiber1",
+      "reviewText": "I am quite happy with this purchase. The juicer is well-constructed, juices efficiently, and is relatively easy to clean. The blade/filter always takes a little added effort, to clean out the little pinholes, but is no real problem.\n\nA certain consumer ratings magazine ranked this as their first choice, over models that cost a lot more. The \"Juiceman\" knew what he was doing when he put his name on this device.\n\nI heartily recommend it.",
+      "submissionTime": "2015-01-22T11:32:02",
+      "title": "Highly Rated and Works Very Well",
+      "upVotes": "2",
+      "downVotes": "0"
+    },
+    {
+      "name": "Juiceman All-in-One Juice Extractor",
+      "overallRating": {
+        "label": "Overall",
+        "rating": "5"
+      },
+      "reviewer": "Marcus",
+      "reviewText": "Very good.",
+      "submissionTime": "2015-01-29T13:18:18",
+      "title": "very good",
+      "upVotes": "1",
+      "downVotes": "0"
+    }
+  ],
+  "reviewStatistics": {
+    "averageOverallRating": "4.67",
+    "overallRatingRange": "5",
+    "ratingDistributions": [
+      {
+        "count": "2",
+        "ratingValue": "4"
+      },
+      {
+        "count": "4",
+        "ratingValue": "5"
+      }
+    ],
+    "totalReviewCount": "6"
+  },
+  "availableOnline": true
+}

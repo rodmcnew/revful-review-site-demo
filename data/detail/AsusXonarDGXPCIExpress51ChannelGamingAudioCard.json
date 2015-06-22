@@ -1,0 +1,134 @@
+{
+  "itemId": 20905347,
+  "name": "Asus Xonar DGX PCI Express 5.1-Channel Gaming Audio Card",
+  "salePrice": 34.92,
+  "upc": "886227121007",
+  "categoryPath": "Electronics/Computers/Computer Components/Graphic Cards",
+  "brandName": "Asus",
+  "productTrackingUrl": "http://linksynergy.walmart.com/fs-bin/click?id=|LSNID|&offerid=223073.7200&type=14&catid=8&subid=0&hid=7200&tmpid=1082&RD_PARM1=http%253A%252F%252Fwww.walmart.com%252Fip%252FAsus-Xonar-DGX-PCI-Express-5.1-Channel-Gaming-Audio-Card%252F20905347%253Faffp1%253Dl1dAKNLrNlFLqxAnUYUMtwzELl3x1lA0ev6C4H5U2XY%2526affilsrc%253Dapi",
+  "productUrl": "http://c.affil.walmart.com/t/api06?l=http%3A%2F%2Fwww.walmart.com%2Fip%2FAsus-Xonar-DGX-PCI-Express-5.1-Channel-Gaming-Audio-Card%2F20905347%3Faffp1%3Dl1dAKNLrNlFLqxAnUYUMtwzELl3x1lA0ev6C4H5U2XY%26affilsrc%3Dapi%26veh%3Daff%26wmlspartner%3Dreadonlyapi",
+  "categoryNode": "3944_3951_1073804",
+  "reviews": [
+    {
+      "name": "Asus Xonar DGX PCI Express 5.1-Channel Gaming Audio Card",
+      "overallRating": {
+        "label": "Overall",
+        "rating": "5"
+      },
+      "productAttributes": [
+        {
+          "label": "Value",
+          "rating": "5"
+        },
+        {
+          "label": "Meets Expectations",
+          "rating": "5"
+        }
+      ],
+      "reviewer": "xclr8",
+      "reviewText": "Installed this card on a hp win7 64-bit system to replace an on-board sound card. The on-board sound card was creating distortion while recording with Audacity software. This card installed pretty easy and fixed the distortion problem. Good sounding card for the money.",
+      "submissionTime": "2012-10-12T23:02:41",
+      "title": "Good To Go!",
+      "upVotes": "3",
+      "downVotes": "0"
+    },
+    {
+      "name": "Asus Xonar DGX PCI Express 5.1-Channel Gaming Audio Card",
+      "overallRating": {
+        "label": "Overall",
+        "rating": "5"
+      },
+      "productAttributes": [
+        {
+          "label": "Value",
+          "rating": "5"
+        },
+        {
+          "label": "Meets Expectations",
+          "rating": "5"
+        }
+      ],
+      "reviewer": "NIRVANA18",
+      "reviewText": "has made my entertainment a lot better quality sound my only con was that it was a pain to install in windows 8.1",
+      "submissionTime": "2014-08-12T08:57:33",
+      "title": "amazing sound card",
+      "upVotes": "0",
+      "downVotes": "0"
+    },
+    {
+      "name": "Asus Xonar DGX PCI Express 5.1-Channel Gaming Audio Card",
+      "overallRating": {
+        "label": "Overall",
+        "rating": "5"
+      },
+      "productAttributes": [
+        {
+          "label": "Value",
+          "rating": "5"
+        },
+        {
+          "label": "Meets Expectations",
+          "rating": "5"
+        }
+      ],
+      "reviewer": "SINGLEDADDD",
+      "reviewText": "I needed a sound card for my system. This sound card works perfectly. Easy to install. I am very happy with this Audio card!",
+      "submissionTime": "2014-09-21T16:35:51",
+      "title": "Great product.",
+      "upVotes": "0",
+      "downVotes": "0"
+    },
+    {
+      "name": "Asus Xonar DGX PCI Express 5.1-Channel Gaming Audio Card",
+      "overallRating": {
+        "label": "Overall",
+        "rating": "4"
+      },
+      "productAttributes": [
+        {
+          "label": "Value",
+          "rating": "4"
+        },
+        {
+          "label": "Meets Expectations",
+          "rating": "5"
+        }
+      ],
+      "reviewer": "Oldergeek88",
+      "reviewText": "Had no sound no matter what I did. Uninstalled drivers...reinstalled drivers...nothing worked. Until I purchased this card. Now everything works properly. Outstanding!",
+      "submissionTime": "2014-05-17T13:19:59",
+      "title": "Completely fixed my sound problems. Very happy.",
+      "upVotes": "0",
+      "downVotes": "0"
+    },
+    {
+      "name": "Asus Xonar DGX PCI Express 5.1-Channel Gaming Audio Card",
+      "overallRating": {
+        "label": "Overall",
+        "rating": "4"
+      },
+      "reviewer": "Raven",
+      "reviewText": "Ok, first, the headphone jack on the card is also the front channel jack (and auxiliary jack if I am not mistaken). So you need to hook up your front panel headphone jack to the cards on board output jack if you wish to use headphones and have front speakers hooked up at the same time.\n\nI also had some trouble getting the card to recognize I had plugged in my headphones. Third party drivers solved this problem after some tweaking.\n\nOther than that this is a great card, amp is good, plenty of customization options. Takes some work to get it to work right, not a good card for novices.",
+      "submissionTime": "2015-05-20T03:33:09",
+      "title": "Good card with a few caveats.....",
+      "upVotes": "0",
+      "downVotes": "0"
+    }
+  ],
+  "reviewStatistics": {
+    "averageOverallRating": "4.6",
+    "overallRatingRange": "5",
+    "ratingDistributions": [
+      {
+        "count": "2",
+        "ratingValue": "4"
+      },
+      {
+        "count": "3",
+        "ratingValue": "5"
+      }
+    ],
+    "totalReviewCount": "5"
+  },
+  "availableOnline": true
+}
