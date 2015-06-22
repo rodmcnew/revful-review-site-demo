@@ -1586,7 +1586,7 @@ module.controller('Home', function ($http) {
     }
 
     $http.get('data/items.json').
-        success(function (data, status, headers, config) {
+        success(function (data) {
             self.items=[];
             for (var i = data.length; --i;) {
                 self.items.push(data[i].replace(/[\(\)\[\]]/gi,''));
@@ -1594,29 +1594,9 @@ module.controller('Home', function ($http) {
         }).error(ajaxError);
     this.onSelect = function (val) {
         $http.get('data/detail/' + val.replace(/[^a-z0-9]+/gi, '') + '.json').
-            success(function (data, status, headers, config) {
+            success(function (data) {
                 self.item = data;
             }).error(ajaxError);
-    }
-});
-
-module.directive('testLinks', function(){
-/**
-     * The link function for this directive. Runs when directive is loaded
-     *
-     * @param $scope
-     */
-    function link($scope) {
-        $scope.links = Object.keys(window.affiliates);
-        for(var i = $scope.links.length;i--;){
-            $scope.links[i]='http://www.revful.com/?t='+$scope.links[i]+'&f=test.revful.com';
-        }
-    }
-
-    // Return the directive configuration
-    return {
-        link: link,
-        template: '<ul><li ng-repeat="link in links"><a href="{{link}}" target="_blank">{{link}}</a></li></ul?'
     }
 });
 
